@@ -1,37 +1,35 @@
 # Alacritty Theme
 
-[![license](https://img.shields.io/github/license/eendroroy/alacritty-theme.svg)](https://github.com/eendroroy/alacritty-theme/blob/master/LICENSE)
-[![GitHub tag](https://img.shields.io/github/tag/eendroroy/alacritty-theme.svg)](https://github.com/eendroroy/alacritty-theme/tags)
-[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/eendroroy/alacritty-theme/master.svg)](https://github.com/eendroroy/alacritty-theme)
+Collection of colorschemes for easy configuration of the [Alacritty terminal
+emulator].
 
-[![GitHub issues](https://img.shields.io/github/issues/eendroroy/alacritty-theme.svg)](https://github.com/eendroroy/alacritty-theme/issues)
-[![GitHub closed issues](https://img.shields.io/github/issues-closed/eendroroy/alacritty-theme.svg)](https://github.com/eendroroy/alacritty-theme/issues?q=is%3Aissue+is%3Aclosed)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/eendroroy/alacritty-theme.svg)](https://github.com/eendroroy/alacritty-theme/pulls)
-[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/eendroroy/alacritty-theme.svg)](https://github.com/eendroroy/alacritty-theme/pulls?q=is%3Apr+is%3Aclosed)
+[Alacritty terminal emulator]: https://github.com/alacritty/alacritty
 
-This repo lists (copied or slightly modified) color schemes for `alacritty`
+## Installation
 
-- collected from various sources
-- converted from other terminal emulator themes
-- created from vim or emacs color schemes.
+### Imports
 
-## How to apply?
+Clone the repository, or download the theme of your choice:
 
-There are multiple ways - 
+```sh
+# We use Alacritty's default Linux config directory as our storage location here.
+mkdir -p ~/.config/alacritty/themes
+git clone https://github.com/alacritty/alacritty-theme ~/.config/alacritty/themes
+```
 
-1. Import the scheme in `alacritty.yaml` file:
+Add an import to your `alacritty.yml` (Replace `{theme}` with your desired
+colorscheme):
 
-   Clone the repository:
+```yaml
+import:
+ - ~/.config/alacritty/themes/themes/{theme}.yaml
+```
 
-      `git clone https://github.com/eendroroy/alacritty-theme.git ~/.alacritty-colorscheme`
-   
-   And add the below line into `alacritty.yaml`:
-     ```yaml
-     import:
-       - ~/.alacritty-colorscheme/themes/{scheme_name}.yaml
-     ```
-2. Copy the content of `yaml` file in the `colors` section into `~/.config/alacritty/alacritty.yml` file.
-3. Use [alacritty-colorscheme](https://github.com/toggle-corp/alacritty-colorscheme). Read details here: [Docs](https://github.com/toggle-corp/alacritty-colorscheme/blob/master/README.md)
+### Manual
+
+To manually include a colorscheme in an existing `alacritty.yml`, you just need
+to copy the entire content of the theme into the root level of your
+configuration file.
 
 ## Color Schemes
 
@@ -105,27 +103,23 @@ There are multiple ways -
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at [alacritty-theme](https://github.com/eendroroy/alacritty-theme)
-repository. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to
-adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at the [alacritty-theme]
+repository.
 
-  1. Fork it ( https://github.com/eendroroy/alacritty-theme/fork )
-  2. Create your feature branch (`git checkout -b my-new-feature`)
-  3. Commit your changes (`git commit -am 'Add some feature'`)
-  4. Push to the branch (`git push origin my-new-feature`)
-  5. Create a new Pull Request
-  
-  Suggestions:
-  
-  - Ensure `{theme}.yaml` file in `theme` directory
-  - Ensure theme preview (ie: `{theme}.png`) in `images` directory
-  - Use [print_colors](https://raw.githubusercontent.com/eendroroy/bin_scripts/master/public/print_colors) script to generate preview
-  - Ensure `schemes.yaml` file is updated
-  - Ensure theme listing in `README.md` following alphabetical ordering
+[alacritty-theme]: https://github.com/alacritty/alacritty-theme
 
-## Author
+To add a new theme, just create a Pull Request with the following changes:
 
-* **indrajit** - *Owner* - [eendroroy](https://github.com/eendroroy)
+ - Add your theme to the `themes` directory with the `{theme}.yaml` file format
+ - Create a screenshot of your theme using the [print_colors script]
+ - Add the screenshot to the `immages` directory with the `{theme}.png` file format
+ - Add your theme to the `schemes.yaml`
+ - Add your theme to the `README.md`, following alphabetical ordering
+
+## Maintainers
+
+ * **indrajit** - *Author* - [eendroroy](https://github.com/eendroroy)
+ * **Christian Dürr** - *Maintainer* - [chrisduerr](https://github.com/chrisduerr)
 
 ## License
 
