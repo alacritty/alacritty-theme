@@ -1,7 +1,7 @@
 # Colors (Everforest Dark)
 colors:
   # Default colors
-  primary: 
+  primary:
     background: '0x2d353b'
     foreground: '0xd3c6aa'
 
@@ -15,7 +15,7 @@ colors:
     magenta: '0xd699b6'
     cyan:    '0x83c092'
     white:   '0xd3c6aa'
-  
+
   # Bright colors
   bright:
     black:   '0x475258'
