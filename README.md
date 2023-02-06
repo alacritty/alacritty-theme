@@ -38,7 +38,8 @@ configuration file.
 |                                   **_afterglow_**<br>[source](https://github.com/YabataDesign/afterglow-theme)                                    |        ![base16_default_dark](images/afterglow.png)        |
 |                                      **_argonaut_**<br>[source](https://github.com/pwaleczek/Argonaut-theme)                                      |        ![base16_default_dark](images/argonaut.png)         |
 |                  **_atom_one_light_**<br>[source](https://github.com/dexpota/kitty-themes/blob/master/themes/AtomOneLight.conf)                   |        ![atom_one_light](images/atom_one_light.png)        |
-|                                        **_ayu_dark_**<br>[source](https://github.com/ayu-theme/ayu-colors)                                        |        ![base16_default_dark](images/ayu_dark.png)         |
+|                                        **_ayu_dark_**<br>[source](https://github.com/ayu-theme/ayu-colors)                                        |              ![ayu_dark](images/ayu_dark.png)              |
+|                                       **_ayu_light_**<br>[source](https://github.com/ayu-theme/ayu-colors)                                        |             ![ayu_light](images/ayu_light.png)             |
 |                                   **_base16_default_dark_**<br>[source](https://github.com/chriskempson/base16)                                   |   ![base16_default_dark](images/base16_default_dark.png)   |
 |                                         **_blood_moon_**<br>[source](https://github.com/dguo/blood-moon)                                          |            ![blood_moon](images/blood_moon.png)            |
 |                                              **_breeze_**<br>[source](https://github.com/KDE/breeze)                                              |                ![breeze](images/breeze.png)                |
@@ -114,7 +115,7 @@ To add a new theme, just create a Pull Request with the following changes:
 
  - Add your theme to the `themes` directory with the `{theme}.yaml` file format
  - Create a screenshot of your theme using the [print_colors script]
- - Add the screenshot to the `immages` directory with the `{theme}.png` file format
+ - Add the screenshot to the `images` directory with the `{theme}.png` file format
  - Add your theme to the `schemes.yaml`
  - Add your theme to the `README.md`, following alphabetical ordering
 
