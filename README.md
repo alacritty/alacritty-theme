@@ -42,6 +42,7 @@ configuration file.
 |                                       **_ayu_light_**<br>[source](https://github.com/ayu-theme/ayu-colors)                                        |             ![ayu_light](images/ayu_light.png)             |
 |                                   **_base16_default_dark_**<br>[source](https://github.com/chriskempson/base16)                                   |   ![base16_default_dark](images/base16_default_dark.png)   |
 |                                         **_blood_moon_**<br>[source](https://github.com/dguo/blood-moon)                                          |            ![blood_moon](images/blood_moon.png)            |
+|                                                                   **_bluish_**                                                                    |                ![bluish](images/bluish.png)                |
 |                                              **_breeze_**<br>[source](https://github.com/KDE/breeze)                                              |                ![breeze](images/breeze.png)                |
 |              **_campbell_**<br>[source](https://blogs.msdn.microsoft.com/commandline/2017/08/02/updating-the-windows-console-colors)              |              ![campbell](images/campbell.png)              |
 |                               **_challenger_deep_**<br>[source](https://github.com/challenger-deep-theme/alacritty)                               |       ![challenger_deep](images/challenger_deep.png)       |
@@ -69,7 +70,7 @@ configuration file.
 |                                                                **_low_contrast_**                                                                 |             ![iterm](images/low_contrast.png)              |
 |                                  **_material_theme_**<br>[source](https://github.com/equinusocio/material-theme)                                  |        ![material_theme](images/material_theme.png)        |
 |                                                             **_material_theme_mod_**                                                              |    ![material_theme_mod](images/material_theme_mod.png)    |
-| **_monokai_charcoal_**<br>[source](https://github.com/dodeca12/Monokai-Charcoal-Theme-for-Alacritty/blob/main/monokai_charcoal_white.yaml) | ![monokai_charcoal](images/monokai-charcoal.png) |
+|    **_monokai_charcoal_**<br>[source](https://github.com/dodeca12/Monokai-Charcoal-Theme-for-Alacritty/blob/main/monokai_charcoal_white.yaml)     |      ![monokai_charcoal](images/monokai-charcoal.png)      |
 |                      **_monokai_pro_**<br>[source](https://gist.github.com/AlphaTechnolog/d1d5f6557f77f71519cb5713268da7dd)                       |           ![monokai_pro](images/monokai_pro.png)           |
 |                             **_moonlight_ii_vscode_**<br>[source](https://github.com/atomiks/moonlight-vscode-theme)                              |   ![moonlight_ii_vscode](images/moonlight_ii_vscode.png)   |
 |                                                             **_night_owlish_light_**                                                              |    ![night_owlish_light](images/night_owlish_light.png)    |
@@ -99,7 +100,7 @@ configuration file.
 |                          **_tokyo-night-storm_**<br>[source](https://github.com/zatchheems/tokyo-night-alacritty-theme)                           |     ![tokyo-night-storm](images/tokyo-night-storm.png)     |
 |                                 **_tomorrow_night_**<br>[source](https://github.com/ChrisKempson/Tomorrow-Theme)                                  |        ![tomorrow_night](images/tomorrow_night.png)        |
 |                              **_tomorrow_night_bright_**<br>[source](https://github.com/ChrisKempson/Tomorrow-Theme)                              | ![tomorrow_night_bright](images/tomorrow_night_bright.png) |
-|                                      **_ubuntu_**<br>[source](https://design.ubuntu.com/brand/colour-palette/)                                    |                ![ubuntu](images/ubuntu.png)                |
+|                                     **_ubuntu_**<br>[source](https://design.ubuntu.com/brand/colour-palette/)                                     |                ![ubuntu](images/ubuntu.png)                |
 |                                        **_wombat_**<br>[source](https://github.com/djoyner/iTerm2-wombat)                                         |                ![wombat](images/wombat.png)                |
 |                                                                    **_xterm_**                                                                    |                 ![xterm](images/xterm.png)                 |
 |                                          **_zenburm_**<br>[source](https://github.com/jnurmine/Zenburn)                                           |               ![zenburm](images/zenburm.png)               |
