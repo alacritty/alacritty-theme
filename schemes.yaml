@@ -1227,6 +1227,29 @@ schemes:
       cyan:    '0x4fb8cc'
       white:   '0xf1f1f1'
 
+  rainbow: &rainbow
+    primary:
+      background: '0x192835'
+      foreground: '0xAADA4F'
+    normal:
+      black:   '0x5B4375'
+      red:     '0x426bb6'
+      green:   '0x2286b5'
+      yellow:  '0x5ab782'
+      blue:    '0x93ca5b'
+      magenta: '0xc6c842'
+      cyan:    '0x8a5135'
+      white:   '0xc54646'
+    bright:
+      black:   '0x5B4375'
+      red:     '0x426bb6'
+      green:   '0x2286b5'
+      yellow:  '0x5ab782'
+      blue:    '0x93ca5b'
+      magenta: '0xc6c842'
+      cyan:    '0x8a5135'
+      white:   '0xc54646'
+
   remedy_dark: &remedy_dark
     primary:
       background: '0x2c2b2a'

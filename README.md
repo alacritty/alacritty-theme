@@ -84,6 +84,7 @@ configuration file.
 |                  **_papertheme_**<br>[source](https://github.com/s6muel/paper-theme/blob/main/themes/alacritty/paper-theme.yml)                   |         ![papercolor_light](images/papertheme.png)         |
 |                                   **_pencil_dark_**<br>[source](https://github.com/mattly/iterm-colors-pencil)                                    |           ![pencil_dark](images/pencil_dark.png)           |
 |                                   **_pencil_light_**<br>[source](https://github.com/mattly/iterm-colors-pencil)                                   |          ![pencil_light](images/pencil_light.png)          |
+|                                                                   **_rainbow_**                                                                   |               ![rainbow](images/rainbow.png)               |
 |                                  **_remedy_dark_**<br>[source](https://github.com/robertrossmann/vscode-remedy)                                   |           ![remedy_dark](images/remedy_dark.png)           |
 |                                        **_rose-pine_**<br>[source](https://github.com/rose-pine/alacritty)                                        |             ![rose-pine](images/rose-pine.png)             |
 |                                      **_snazzy_**<br>[source](https://github.com/sindresorhus/hyper-snazzy)                                       |                ![snazzy](images/snazzy.png)                |
