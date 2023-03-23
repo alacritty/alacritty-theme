@@ -75,6 +75,7 @@ configuration file.
 |                                                                    **_iterm_**                                                                    |                 ![iterm](images/iterm.png)                 |
 |                                                                **_konsole_linux_**                                                                |             ![iterm](images/konsole_linux.png)             |
 |                                                                **_low_contrast_**                                                                 |             ![iterm](images/low_contrast.png)              |
+|                  **_Mariana_**<br>[source](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/alacritty/Mariana.yml)                   |                ![iterm](images/mariana.png)                |
 |                                  **_material_theme_**<br>[source](https://github.com/equinusocio/material-theme)                                  |        ![material_theme](images/material_theme.png)        |
 |                                                             **_material_theme_mod_**                                                              |    ![material_theme_mod](images/material_theme_mod.png)    |
 |    **_monokai_charcoal_**<br>[source](https://github.com/dodeca12/Monokai-Charcoal-Theme-for-Alacritty/blob/main/monokai_charcoal_white.yaml)     |      ![monokai_charcoal](images/monokai-charcoal.png)      |
