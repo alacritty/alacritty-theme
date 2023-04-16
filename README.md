@@ -73,6 +73,7 @@ configuration file.
 |                                 **_horizon-dark_**<br>[source](https://github.com/jolaleye/horizon-theme-vscode)                                  |          ![horizon-dark](images/horizon-dark.png)          |
 |                                                     **_hyper_**<br>[source](https://hyper.is)                                                     |                 ![hyper](images/hyper.png)                 |
 |                                                                    **_iterm_**                                                                    |                 ![iterm](images/iterm.png)                 |
+|                                 **_kanagawa-dragon_**<br>[source](https://github.com/rebelot/kanagawa.nvim)                                       |          ![kanagawa-dragon](images/kanagawa_dragon.png)    |
 |                                                                **_konsole_linux_**                                                                |             ![iterm](images/konsole_linux.png)             |
 |                                                                **_low_contrast_**                                                                 |             ![iterm](images/low_contrast.png)              |
 |                  **_Mariana_**<br>[source](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/alacritty/Mariana.yml)                   |                ![iterm](images/mariana.png)                |
