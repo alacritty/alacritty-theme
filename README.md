@@ -96,6 +96,9 @@ configuration file.
 |                                                                   **_rainbow_**                                                                   |               ![rainbow](images/rainbow.png)               |
 |                                  **_remedy_dark_**<br>[source](https://github.com/robertrossmann/vscode-remedy)                                   |           ![remedy_dark](images/remedy_dark.png)           |
 |                                        **_rose-pine_**<br>[source](https://github.com/rose-pine/alacritty)                                        |             ![rose-pine](images/rose-pine.png)             |
+|                                        **_rose-pine-dawn_**<br>[source](https://github.com/rose-pine/alacritty)                                        |             ![rose-pine-dawn](images/rose-pine-dawn.png)             |
+|                                        **_rose-pine-moon_**<br>[source](https://github.com/rose-pine/alacritty)                                        |             ![rose-pine-moon](images/rose-pine-moon.png)             |
+
 |                                      **_snazzy_**<br>[source](https://github.com/sindresorhus/hyper-snazzy)                                       |                ![snazzy](images/snazzy.png)                |
 |         **seashells**<br>[source](https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/SeaShells.itermcolors)          |             ![seashells](images/seashells.png)             |
 | **smoooooth**<br>[source](https://github.com/gnachman/iTerm2/blob/33945e63ad48ed80d6cc1adf7cbeb663217652d2/plists/ColorPresets.plist#L4345-L4685) |             ![smoooooth](images/smoooooth.png)             |
