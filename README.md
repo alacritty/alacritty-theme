@@ -3,6 +3,8 @@
 Collection of colorschemes for easy configuration of the [Alacritty terminal
 emulator].
 
+The default theme is [Tomorrow Night](themes/tomorrow_night.yaml).
+
 [Alacritty terminal emulator]: https://github.com/alacritty/alacritty
 
 ## Installation
