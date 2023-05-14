@@ -1,0 +1,29 @@
+# Marine Dark Theme
+# Source: https://github.com/ProDeSquare/alacritty-colorschemes/blob/master/themes/marine_dark.yaml
+colors:
+  # Default colors
+  primary:
+    background: '0x002221'
+    foreground: '0xe6f8f8'
+
+  # Normal colors
+  normal:
+    black:   '0x002221'
+    red:     '0xea3431'
+    green:   '0x00b6b6'
+    yellow:  '0xf8b017'
+    blue:    '0x4894fd'
+    magenta: '0xe01dca'
+    cyan:    '0x1ab2ad'
+    white:   '0x99dddb'
+
+  # Bright colors
+  bright:
+    black:   '0x006562'
+    red:     '0xea3431'
+    green:   '0x00b6b6'
+    yellow:  '0xf8b017'
+    blue:    '0x4894fd'
+    magenta: '0xe01dca'
+    cyan:    '0x1ab2ad'
+    white:   '0xe6f6f6'
