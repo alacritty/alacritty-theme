@@ -1,3 +1,5 @@
+# Colors (Kanagawa Wave)
+# Source: https://github.com/rebelot/kanagawa.nvim
 colors:
   primary:
     background: '0x1f1f28'
