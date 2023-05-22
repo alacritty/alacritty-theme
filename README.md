@@ -74,6 +74,7 @@ configuration file.
 |                                                     **_hyper_**<br>[source](https://hyper.is)                                                     |                 ![hyper](images/hyper.png)                 |
 |                                                                    **_iterm_**                                                                    |                 ![iterm](images/iterm.png)                 |
 |                                 **_kanagawa-dragon_**<br>[source](https://github.com/rebelot/kanagawa.nvim)                                       |          ![kanagawa-dragon](images/kanagawa_dragon.png)    |
+|                                  **_kanagawa-wave_**<br>[source](https://github.com/rebelot/kanagawa.nvim)                                        |          ![kanagawa-wave](images/kanagawa_wave.png)        |
 |                                                                **_konsole_linux_**                                                                |             ![iterm](images/konsole_linux.png)             |
 |                                                                **_low_contrast_**                                                                 |             ![iterm](images/low_contrast.png)              |
 |                  **_Mariana_**<br>[source](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/alacritty/Mariana.yml)                   |                ![iterm](images/mariana.png)                |
