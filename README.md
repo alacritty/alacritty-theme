@@ -119,7 +119,7 @@ configuration file.
 |                                     **_ubuntu_**<br>[source](https://design.ubuntu.com/brand/colour-palette/)                                     |                ![ubuntu](images/ubuntu.png)                |
 |                                        **_wombat_**<br>[source](https://github.com/djoyner/iTerm2-wombat)                                         |                ![wombat](images/wombat.png)                |
 |                                                                    **_xterm_**                                                                    |                 ![xterm](images/xterm.png)                 |
-|                                          **_zenburm_**<br>[source](https://github.com/jnurmine/Zenburn)                                           |               ![zenburm](images/zenburm.png)               |
+|                                          **_zenburn_**<br>[source](https://github.com/jnurmine/Zenburn)                                           |               ![zenburn](images/zenburn.png)               |
 
 ## Contributing
 
