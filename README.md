@@ -73,10 +73,12 @@ configuration file.
 |                                 **_horizon-dark_**<br>[source](https://github.com/jolaleye/horizon-theme-vscode)                                  |          ![horizon-dark](images/horizon-dark.png)          |
 |                                                     **_hyper_**<br>[source](https://hyper.is)                                                     |                 ![hyper](images/hyper.png)                 |
 |                                                                    **_iterm_**                                                                    |                 ![iterm](images/iterm.png)                 |
-|                                 **_kanagawa-dragon_**<br>[source](https://github.com/rebelot/kanagawa.nvim)                                       |          ![kanagawa-dragon](images/kanagawa_dragon.png)    |
+|                                 **_kanagawa_dragon_**<br>[source](https://github.com/rebelot/kanagawa.nvim)                                       |          ![kanagawa_dragon](images/kanagawa_dragon.png)    |
+|                                  **_kanagawa_wave_**<br>[source](https://github.com/rebelot/kanagawa.nvim)                                        |          ![kanagawa_wave](images/kanagawa_wave.png)        |
 |                                                                **_konsole_linux_**                                                                |             ![iterm](images/konsole_linux.png)             |
 |                                                                **_low_contrast_**                                                                 |             ![iterm](images/low_contrast.png)              |
 |                  **_Mariana_**<br>[source](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/alacritty/Mariana.yml)                   |                ![iterm](images/mariana.png)                |
+|                  **_marine_dark_**<br>[source](https://github.com/ProDeSquare/alacritty-colorschemes/blob/master/themes/marine_dark.yaml)         |                ![marine_dark](images/marine_dark.png)         |
 |                                  **_material_theme_**<br>[source](https://github.com/equinusocio/material-theme)                                  |        ![material_theme](images/material_theme.png)        |
 |                                                             **_material_theme_mod_**                                                              |    ![material_theme_mod](images/material_theme_mod.png)    |
 |                  **_midnight-haze_**<br>[source](https://github.com/hafiz-muhammad/midnight-haze-alacritty-theme)                                 |    ![midnight-haze](images/midnight-haze.png)              |
@@ -117,7 +119,7 @@ configuration file.
 |                                     **_ubuntu_**<br>[source](https://design.ubuntu.com/brand/colour-palette/)                                     |                ![ubuntu](images/ubuntu.png)                |
 |                                        **_wombat_**<br>[source](https://github.com/djoyner/iTerm2-wombat)                                         |                ![wombat](images/wombat.png)                |
 |                                                                    **_xterm_**                                                                    |                 ![xterm](images/xterm.png)                 |
-|                                          **_zenburm_**<br>[source](https://github.com/jnurmine/Zenburn)                                           |               ![zenburm](images/zenburm.png)               |
+|                                          **_zenburn_**<br>[source](https://github.com/jnurmine/Zenburn)                                           |               ![zenburn](images/zenburn.png)               |
 
 ## Contributing
 

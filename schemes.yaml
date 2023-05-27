@@ -451,7 +451,7 @@ schemes:
       white:   '0xffffff'
 
   everforest_dark: &everforest_dark
-    primary: 
+    primary:
       background: '0x2d353b'
       foreground: '0xd3c6aa'
     normal:
@@ -493,7 +493,7 @@ schemes:
       blue:    '0x3a94c5'
       magenta: '0xdf69ba'
       cyan:    '0x35a77c'
-  
+
   falcon: &falcon
     primary:
       background: '0x020221'
@@ -794,6 +794,40 @@ schemes:
         - { index: 16, color: '0xffa066' }
         - { index: 17, color: '0xff5d62' }
 
+  kanagawa_wave: &kanagawa_wave
+    colors:
+      primary:
+        background: '0x1f1f28'
+        foreground: '0xdcd7ba'
+
+      normal:
+        black:   '0x090618'
+        red:     '0xc34043'
+        green:   '0x76946a'
+        yellow:  '0xc0a36e'
+        blue:    '0x7e9cd8'
+        magenta: '0x957fb8'
+        cyan:    '0x6a9589'
+        white:   '0xc8c093'
+
+      bright:
+        black:   '0x727169'
+        red:     '0xe82424'
+        green:   '0x98bb6c'
+        yellow:  '0xe6c384'
+        blue:    '0x7fb4ca'
+        magenta: '0x938aa9'
+        cyan:    '0x7aa89f'
+        white:   '0xdcd7ba'
+
+      selection:
+        background: '0x2d4f67'
+        foreground: '0xc8c093'
+
+      indexed_colors:
+        - { index: 16, color: '0xffa066' }
+        - { index: 17, color: '0xff5d62' }
+
   konsole_linux: &konsole_linux
     primary:
       foreground: '0xe3e3e3'
@@ -911,7 +945,7 @@ schemes:
       magenta: '0x6c71c4'
       cyan:    '0x35434d'
       white:   '0xffffff'
-  
+
   midnight-haze: &midnight-haze
     primary:
       background: '0x0c0c16'
@@ -934,7 +968,7 @@ schemes:
       magenta: '0xffa1ff'
       cyan:    '0x9cd8d8'
       white:   '0xffffff'
-  
+
   nord: &nord
     primary:
       background: '0x2E3440'
@@ -2140,7 +2174,7 @@ schemes:
     indexed_colors:
       - { index: 16, color: '0xd18616' }
       - { index: 17, color: '0xa40e26' }
- 
+
   Mariana: &Mariana
     primary:
       background: '#343d46'
@@ -2169,5 +2203,33 @@ schemes:
     selection:
       background: '#4e5a65'
       text: '#d8dee9'
+
+  marine_dark: &marine_dark
+    # Default colors
+    primary:
+      background: '0x002221'
+      foreground: '0xe6f8f8'
+
+    # Normal colors
+    normal:
+      black:   '0x002221'
+      red:     '0xea3431'
+      green:   '0x00b6b6'
+      yellow:  '0xf8b017'
+      blue:    '0x4894fd'
+      magenta: '0xe01dca'
+      cyan:    '0x1ab2ad'
+      white:   '0x99dddb'
+
+    # Bright colors
+    bright:
+      black:   '0x006562'
+      red:     '0xea3431'
+      green:   '0x00b6b6'
+      yellow:  '0xf8b017'
+      blue:    '0x4894fd'
+      magenta: '0xe01dca'
+      cyan:    '0x1ab2ad'
+      white:   '0xe6f6f6'
 
 colors: *challenger_deep
