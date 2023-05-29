@@ -70,6 +70,7 @@ configuration file.
 |                                        **_gruvbox_dark_**<br>[source](https://github.com/morhetz/gruvbox)                                         |          ![gruvbox_dark](images/gruvbox_dark.png)          |
 |                                        **_gruvbox_light_**<br>[source](https://github.com/morhetz/gruvbox)                                        |         ![gruvbox_light](images/gruvbox_light.png)         |
 |                                  **_gruvbox_material_**<br>[source](https://github.com/sainnhe/gruvbox-material)                                  |      ![gruvbox_material](images/gruvbox_material.png)      |
+|                                  **_hardhacker_**<br>[source](https://github.com/hardhackerlabs/theme-alacritty)                                  |      ![hardhacker](images/hardhacker.png)                  |
 |                                                                **_high_contrast_**                                                                |         ![gruvbox_light](images/high_contrast.png)         |
 |                                 **_horizon-dark_**<br>[source](https://github.com/jolaleye/horizon-theme-vscode)                                  |          ![horizon-dark](images/horizon-dark.png)          |
 |                                                     **_hyper_**<br>[source](https://hyper.is)                                                     |                 ![hyper](images/hyper.png)                 |
