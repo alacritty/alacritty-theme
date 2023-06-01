@@ -675,7 +675,7 @@ schemes:
       white:   '0x3c3836'
 
   # The gruvbox_material scheme is left for compatibility.
-  # Same as the Gruvbox Material Medium Dark theme.
+  # Keep the same with themes/gruvbox_material_medium_dark.yaml.
   gruvbox_material: &gruvbox_material
     primary:
       background: '#282828'
