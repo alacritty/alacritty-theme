@@ -722,6 +722,29 @@ schemes:
       cyan:    '#89b482'
       white:   '#d4be98'
 
+  gruvbox_material_medium_light: &gruvbox_material_medium_light
+    primary:
+      background: '#fbf1c7'
+      foreground: '#654735'
+    normal:
+      black:   '#654735'
+      red:     '#c14a4a'
+      green:   '#6c782e'
+      yellow:  '#b47109'
+      blue:    '#45707a'
+      magenta: '#945e80'
+      cyan:    '#4c7a5d'
+      white:   '#eee0b7'
+    bright:
+      black:   '#654735'
+      red:     '#c14a4a'
+      green:   '#6c782e'
+      yellow:  '#b47109'
+      blue:    '#45707a'
+      magenta: '#945e80'
+      cyan:    '#4c7a5d'
+      white:   '#eee0b7'
+
   hardhacker: &hardhacker
     primary:
       background: '0x282433'
