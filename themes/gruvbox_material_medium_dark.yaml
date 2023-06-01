@@ -16,7 +16,7 @@ colors:
     cyan:    '#89b482'
     white:   '#d4be98'
 
-  # Bright colors
+  # Bright colors (same as normal colors)
   bright:
     black:   '#3c3836'
     red:     '#ea6962'
