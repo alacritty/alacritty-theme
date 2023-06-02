@@ -24,21 +24,7 @@ colorscheme):
 import:
  - ~/.config/alacritty/themes/themes/{theme}.yaml
 ```
-### For Windows users
-Clone the repository, or download the theme of your choice:
 
-```sh
-mkdir %USERPROFILE%\AppData\Roaming\alacritty\themes
-git clone https://github.com/alacritty/alacritty-theme %USERPROFILE%\AppData\Roaming\alacritty\themes
-```
-
-Please replace `{username}` with the actual username and `{theme}` with the desired theme name
-
-```yaml
-#Include only absolute path
-import:
-  - C:\Users\{username}\AppData\Roaming\alacritty\themes\themes\{theme}.yaml
-```
 
 ### Manual
 
