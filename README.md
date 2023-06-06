@@ -25,7 +25,6 @@ import:
  - ~/.config/alacritty/themes/themes/{theme}.yaml
 ```
 
-
 ### Manual
 
 To manually include a colorscheme in an existing `alacritty.yml`, you just need
