@@ -134,7 +134,7 @@ repository.
 To add a new theme, just create a Pull Request with the following changes:
 
  - Add your theme to the `themes` directory with the `{theme}.yaml` file format
- - Create a screenshot of your theme using the [print_colors script]
+ - Create a screenshot of your theme using the [`print_colors.sh`](./print_colors.sh) script
  - Add the screenshot to the `images` directory with the `{theme}.png` file format
  - Add your theme to the `schemes.yaml`
  - Add your theme to the `README.md`, following alphabetical ordering
