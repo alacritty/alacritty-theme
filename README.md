@@ -45,6 +45,7 @@ configuration file.
 |                                                                   **_bluish_**                                                                    |                ![bluish](images/bluish.png)                |
 |                                              **_breeze_**<br>[source](https://github.com/KDE/breeze)                                              |                ![breeze](images/breeze.png)                |
 |              **_campbell_**<br>[source](https://blogs.msdn.microsoft.com/commandline/2017/08/02/updating-the-windows-console-colors)              |              ![campbell](images/campbell.png)              |
+|              **_carbonfox_**<br>[source](https://github.com/edeneast/nightfox.nvim/raw/main/extra/carbonfox/nightfox_alacritty.yml)               |             ![carbonfox](images/carbonfox.png)             |
 |              **_catppuccin_**<br>[source](https://github.com/catppuccin/catppuccin)                                                               |              ![catppuccin](images/catppuccin.png)          |
 |                               **_challenger_deep_**<br>[source](https://github.com/challenger-deep-theme/alacritty)                               |       ![challenger_deep](images/challenger_deep.png)       |
 |                                              **_city_lights_**<br>[source](https://citylights.xyz/)                                               |           ![city_lights](images/citylights.png)            |
