@@ -25,6 +25,12 @@ import:
  - ~/.config/alacritty/themes/themes/{theme}.yaml
 ```
 
+On alacritty-git, use
+
+```toml
+import = ["~/.config/alacritty/themes/themes/{theme}.toml"]
+```
+
 ### Manual
 
 To manually include a colorscheme in an existing `alacritty.yml`, you just need
