@@ -93,6 +93,7 @@ configuration file.
 |    **_monokai_charcoal_**<br>[source](https://github.com/dodeca12/Monokai-Charcoal-Theme-for-Alacritty/blob/main/monokai_charcoal_white.yaml)     |      ![monokai_charcoal](images/monokai-charcoal.png)      |
 |                      **_monokai_pro_**<br>[source](https://gist.github.com/AlphaTechnolog/d1d5f6557f77f71519cb5713268da7dd)                       |           ![monokai_pro](images/monokai_pro.png)           |
 |                             **_moonlight_ii_vscode_**<br>[source](https://github.com/atomiks/moonlight-vscode-theme)                              |   ![moonlight_ii_vscode](images/moonlight_ii_vscode.png)   |
+|                                       **_msx-like_**<br>[source](https://paulwratt.github.io/programmers-palettes/HW-MSX/HW-MSX-palettes.html)    |              ![msx-like](images/msx-like.png)              |
 |                                       **_nightfox_**<br>[source](https://github.com/EdenEast/nightfox.nvim)                                       |              ![nightfox](images/nightfox.png)              |
 |                                                             **_night_owlish_light_**                                                              |    ![night_owlish_light](images/night_owlish_light.png)    |
 |                                          **_nord_**<br>[source](https://github.com/arcticicestudio/nord)                                          |                  ![nord](images/nord.png)                  |
