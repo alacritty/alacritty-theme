@@ -1149,7 +1149,7 @@ schemes:
       cyan:    '0x9cd8d8'
       white:   '0xffffff'
 
-  msx-like: &msx-like
+  msx: &msx
     primary:
       background: '#5955E0'
       foreground: '#FFFFFF'
