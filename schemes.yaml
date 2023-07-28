@@ -1149,6 +1149,29 @@ schemes:
       cyan:    '0x9cd8d8'
       white:   '0xffffff'
 
+  msx: &msx
+    primary:
+      background: '#5955E0'
+      foreground: '#FFFFFF'
+    normal:
+      black: '#5955E0'
+      red: '#B95E51'
+      green: '#3AA241'
+      yellow: '#CCC35E'
+      blue: '#000000'
+      magenta: '#DB6559'
+      cyan: '#3EB849'
+      white: '#CCCCCC'
+    bright:
+      black: '#8076F1'
+      red: '#FF897D'
+      green: '#74D07D'
+      yellow: '#DED087'
+      blue: '#CCCCCC'
+      magenta: '#B766B5'
+      cyan: '#65DBEF'
+      white: '#FFFFFF'
+
   nord: &nord
     primary:
       background: '0x2E3440'
