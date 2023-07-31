@@ -42,6 +42,7 @@ configuration file.
 |                  **_atom_one_light_**<br>[source](https://github.com/dexpota/kitty-themes/blob/master/themes/AtomOneLight.conf)                   |        ![atom_one_light](images/atom_one_light.png)        |
 |                                        **_ayu_dark_**<br>[source](https://github.com/ayu-theme/ayu-colors)                                        |              ![ayu_dark](images/ayu_dark.png)              |
 |                                       **_ayu_light_**<br>[source](https://github.com/ayu-theme/ayu-colors)                                        |             ![ayu_light](images/ayu_light.png)             |
+|                                   **_baitong_**<br>[source](https://github.com/cypj/baitong-theme)                                                |         ![baitong](images/baitong.png)                     |
 |                                   **_base16_default_dark_**<br>[source](https://github.com/chriskempson/base16)                                   |   ![base16_default_dark](images/base16_default_dark.png)   |
 |                                         **_blood_moon_**<br>[source](https://github.com/dguo/blood-moon)                                          |            ![blood_moon](images/blood_moon.png)            |
 |                                                                   **_bluish_**                                                                    |                ![bluish](images/bluish.png)                |
