@@ -2555,4 +2555,35 @@ schemes:
           - { index: 16, color: "#c4b392" }
           - { index: 17, color: "#ddd9d6" }
 
+  deep_blue: &deep_blue
+    primary:
+      background: '#1b202a'
+      foreground: '#9aa7bd'
+
+    cursor:
+      text: '#232936'
+      cursor: '#51617d'
+    
+    # Normal colors
+    normal:
+      black: '#1b202a'
+      red: '#b15e7c'
+      green: '#709d6c'
+      yellow: '#b5a262'
+      blue: '#608cc3'
+      magenta: '#8f72bf'
+      cyan: '#56adb7'
+      white: '#9aa7bd'
+
+    # Bright colors
+    bright:
+      black: '#232936'
+      red: '#b3785d'
+      green: '#709d6c'
+      yellow: '#d5b875'
+      blue: '#608cc3'
+      magenta: '#c47ebd'
+      cyan: '#51617d'
+      white: '#9aa7bd'
+
 colors: *challenger_deep
