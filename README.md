@@ -25,6 +25,12 @@ import:
  - ~/.config/alacritty/themes/themes/{theme}.yaml
 ```
 
+Or if you are using **Alacritty 0.13.0** and onwards:
+
+```toml
+import=["~/.config/alacritty/themes/themes/{theme}.yaml"]
+```
+
 ### Manual
 
 To manually include a colorscheme in an existing `alacritty.yml`, you just need
@@ -56,7 +62,7 @@ configuration file.
 |                                 **_cyber_punk_neon_**<br>[source](https://github.com/Roboron3042/Cyberpunk-Neon)                                  |       ![cyber_punk_neon](images/cyber_punk_neon.png)       |
 |                                                **_darcula_**<br>[source](https://draculatheme.com)                                                |               ![darcula](images/darcula.png)               |
 |         **_dark_pastels_**<br>[source](https://invent.kde.org/utilities/konsole/-/blob/master/data/color-schemes/DarkPastels.colorscheme)         |          ![dark_pastels](images/dark_pastels.png)          |
-|                                                                  **_deep_space_**                                                                 |             ![depp_space](images/deep_space.png)           |                                         
+|                                                                  **_deep_space_**                                                                 |             ![depp_space](images/deep_space.png)           |
 |                                     **_doom_one_**<br>[source](https://github.com/hlissner/emacs-doom-themes)                                     |              ![doom_one](images/doom_one.png)              |
 |                                                **_dracula_**<br>[source](https://draculatheme.com)                                                |               ![dracula](images/dracula.png)               |
 |                                     **_everforest_dark_**<br>[source](https://github.com/sainnhe/everforest)                                      |       ![everforest_dark](images/everforest_dark.png)       |
