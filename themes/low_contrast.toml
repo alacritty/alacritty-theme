@@ -1,0 +1,27 @@
+[colors.bright]
+black = "0x000000"
+blue = "0x0000bb"
+cyan = "0x00bbbb"
+green = "0x00bb00"
+magenta = "0xbb00bb"
+red = "0xbb0000"
+white = "0xbbbbbb"
+yellow = "0xbbbb00"
+
+[colors.cursor]
+cursor = "0xffffff"
+text = "0xaaaaaa"
+
+[colors.normal]
+black = "0x000000"
+blue = "0x0000bb"
+cyan = "0x00bbbb"
+green = "0x00bb00"
+magenta = "0xbb00bb"
+red = "0xbb0000"
+white = "0xbbbbbb"
+yellow = "0xbbbb00"
+
+[colors.primary]
+background = "0x333333"
+foreground = "0xdddddd"
