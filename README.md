@@ -97,6 +97,7 @@ configuration file.
 |                             **_moonlight_ii_vscode_**<br>[source](https://github.com/atomiks/moonlight-vscode-theme)                              |   ![moonlight_ii_vscode](images/moonlight_ii_vscode.png)   |
 |                                            **_msx_**<br>[source](https://paulwratt.github.io/programmers-palettes/HW-MSX/HW-MSX-palettes.html)    |              ![msx](images/msx.png)              |
 |                                       **_nightfox_**<br>[source](https://github.com/EdenEast/nightfox.nvim)                                       |              ![nightfox](images/nightfox.png)              |
+|                                       **_noctis-lux_**<br>[source](https://github.com/liviuschera/noctis)                                         |              ![noctis-lux](images/noctis-lux.png)              |
 |                                                             **_night_owlish_light_**                                                              |    ![night_owlish_light](images/night_owlish_light.png)    |
 |                                          **_nord_**<br>[source](https://github.com/arcticicestudio/nord)                                          |                  ![nord](images/nord.png)                  |
 |                             **_oceanic_next_**<br>[source](https://github.com/voronianski/oceanic-next-color-scheme)                              |          ![oceanic_next](images/oceanic_next.png)          |
