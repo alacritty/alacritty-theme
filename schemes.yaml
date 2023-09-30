@@ -1247,6 +1247,29 @@ schemes:
       cyan:    '0x8FBCBB'
       white:   '0xECEFF4'
 
+  nord_light: &nord_light
+    primary:
+      background: '#ECEFF4'
+      foreground: '#81A1C1'
+    normal:
+      black:   '#D8DEE9'
+      red:     '#bf616a'
+      green:   '#a3be8c'
+      yellow:  '#D08770'
+      blue:    '#81A1C1'
+      magenta: '#B48EAD'
+      cyan:    '#88C0D0'
+      white:   '#4C566A'
+    bright:
+      black:   '#D8DEE9'
+      red:     '#bf616a'
+      green:   '#a3be8c'
+      yellow:  '#D08770'
+      blue:    '#D8DEE9'
+      magenta: '#B48EAD'
+      cyan:    '#8FBCBB'
+      white:   '#D8DEE9'
+
   nordic: &nordic
     primary:
       background: '#242933'
