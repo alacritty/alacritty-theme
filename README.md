@@ -22,7 +22,7 @@ colorscheme):
 
 ```yaml
 import:
-import = ["~/.config/alacritty/themes/themes/{theme}.yaml"]
+import = ["~/.config/alacritty/themes/themes-toml/{theme}.yaml"]
 ```
 
 ### Manual

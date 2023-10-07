@@ -1,0 +1,31 @@
+[colors]
+author = "tonsky"
+name = "Alabaster"
+
+[colors.bright]
+black = "#777777"
+blue = "#007ACC"
+cyan = "#00AACB"
+green = "#60CB00"
+magenta = "#E64CE6"
+red = "#F05050"
+white = "#FFFFFF"
+yellow = "#FFBC5D"
+
+[colors.cursor]
+cursor = "#434343"
+text = "#F7F7F7"
+
+[colors.normal]
+black = "#000000"
+blue = "#325CC0"
+cyan = "#0083B2"
+green = "#448C27"
+magenta = "#7A3E9D"
+red = "#AA3731"
+white = "#BBBBBB"
+yellow = "#CB9000"
+
+[colors.primary]
+background = "#F7F7F7"
+foreground = "#434343"

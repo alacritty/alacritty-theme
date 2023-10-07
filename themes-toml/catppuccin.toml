@@ -1,0 +1,37 @@
+[colors.bright]
+black = "#5C6370"
+blue = "#61AFEF"
+cyan = "#54AFBC"
+green = "#98C379"
+magenta = "#C678DD"
+red = "#E86671"
+white = "0xf7f7f7"
+yellow = "#E5C07B"
+
+[colors.cursor]
+cursor = "#D9D9D9"
+text = "#CDD6F4"
+
+[colors.dim]
+black = "#5C6370"
+blue = "#61AFEF"
+cyan = "0x5c8482"
+green = "#98C379"
+magenta = "0x6e4962"
+red = "0x74423f"
+white = "0x828282"
+yellow = "#E5C07B"
+
+[colors.normal]
+black = "#181A1F"
+blue = "#61AFEF"
+cyan = "#54AFBC"
+green = "#98C379"
+magenta = "#C678DD"
+red = "#E86671"
+white = "#ABB2BF"
+yellow = "#E5C07B"
+
+[colors.primary]
+background = "#1E1E2E"
+foreground = "0xd6d6d6"
