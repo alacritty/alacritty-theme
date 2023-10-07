@@ -17,12 +17,12 @@ mkdir -p ~/.config/alacritty/themes
 git clone https://github.com/alacritty/alacritty-theme ~/.config/alacritty/themes
 ```
 
-Add an import to your `alacritty.yml` (Replace `{theme}` with your desired
+Add an import to your `alacritty.toml` (Replace `{theme}` with your desired
 colorscheme):
 
 ```yaml
 import:
- - ~/.config/alacritty/themes/themes/{theme}.yaml
+import = ["~/.config/alacritty/themes/themes/{theme}.yaml"]
 ```
 
 ### Manual
