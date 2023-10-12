@@ -63,6 +63,7 @@ configuration file.
 |                                     **_everforest_light_**<br>[source](https://github.com/sainnhe/everforest)                                     |      ![everforest_light](images/everforest_light.png)      |
 |                                           **_falcon_**<br>[source](https://github.com/fenetikm/falcon)                                            |                ![falcon](images/falcon.png)                |
 |                          **_flat_remix_**<br>[source](https://github.com/Mayccoll/Gogh/blob/master/themes/flat-remix.sh)                          |            ![flat_remix](images/flat_remix.png)            |
+| **_flexoki_**<br>[source](https://github.com/kepano/flexoki/tree/main/alacritty)                                                                  | ![flexoki](images/flexoki.png)                             |
 | **_github_dark_**<br>[source](https://github.com/projekt0n/github-theme-contrib/blob/main/alacritty/github_dark.yml)                              | ![github_dark](images/github_dark.png)                         |
 | **_github_dark_colorblind_**<br>[source](https://github.com/projekt0n/github-theme-contrib/blob/main/alacritty/github_dark_colorblind.yml)        | ![github_dark_colorblind](images/github_dark_colorblind.png)   |
 | **_github_dark_default_**<br>[source](https://github.com/projekt0n/github-theme-contrib/blob/main/alacritty/github_dark_default.yml)              | ![github_dark_default](images/github_dark_default.png)         |
