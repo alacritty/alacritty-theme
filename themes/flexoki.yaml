@@ -1,3 +1,4 @@
+# based on: https://stephango.com/flexoki and https://github.com/kepano/flexoki/tree/main/alacritty
 colors:
   # Default colors
   primary:
