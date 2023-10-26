@@ -2374,7 +2374,7 @@ schemes:
       - { index: 16, color: '0xd18616' }
       - { index: 17, color: '0xffa198' }
 
-  github_dimmed: &github_dimmed
+  github_dark_dimmed: &github_dark_dimmed
     # Default colors
     primary:
       background: '0x22272e'
@@ -2405,6 +2405,72 @@ schemes:
     indexed_colors:
       - { index: 16, color: '0xd18616' }
       - { index: 17, color: '0xff938a' }
+
+  github_dark_high_contrast: &github_dark_high_contrast
+    # Default colors
+    primary:
+      background: '0x0a0c10'
+      foreground: '0xf0f3f6'
+
+    # Cursor colors
+    cursor:
+      text: '0x0a0c10'
+      cursor: '0xf0f3f6'
+
+    # Normal colors
+    normal:
+      black: '0x7a828e'
+      red: '0xff9492'
+      green: '0x26cd4d'
+      yellow: '0xf0b72f'
+      blue: '0x71b7ff'
+      magenta: '0xcb9eff'
+      cyan: '0x39c5cf'
+      white: '0xd9dee3'
+
+    # Bright colors
+    bright:
+      black: '0x9ea7b3'
+      red: '0xffb1af'
+      green: '0x4ae168'
+      yellow: '0xf7c843'
+      blue: '0x91cbff'
+      magenta: '0xcb9eff'
+      cyan: '0x39c5cf'
+      white: '0xd9dee3'
+
+  github_dark_tritanopia: &github_dark_tritanopia
+    # Default colors
+    primary:
+      background: '0x0d1117'
+      foreground: '0xc9d1d9'
+
+    # Cursor colors
+    cursor:
+      text: '0x0d1117'
+      cursor: '0xc9d1d9'
+
+    # Normal colors
+    normal:
+      black: '0x484f58'
+      red: '0xff7b72'
+      green: '0x58a6ff'
+      yellow: '0xd29922'
+      blue: '0x58a6ff'
+      magenta: '0xbc8cff'
+      cyan: '0x39c5cf'
+      white: '0xb1bac4'
+
+    # Bright colors
+    bright:
+      black: '0x6e7681'
+      red: '0xffa198'
+      green: '0x79c0ff'
+      yellow: '0xe3b341'
+      blue: '0x79c0ff'
+      magenta: '0xbc8cff'
+      cyan: '0x39c5cf'
+      white: '0xb1bac4'
 
   github_light: &github_light
     # Default colors
@@ -2501,6 +2567,72 @@ schemes:
     indexed_colors:
       - { index: 16, color: '0xd18616' }
       - { index: 17, color: '0xa40e26' }
+
+  github_light_high_contrast: &github_light_high_contrast
+    # Default colors
+    primary:
+      background: '0xffffff'
+      foreground: '0x010409'
+
+    # Cursor colors
+    cursor:
+      text: '0xffffff'
+      cursor: '0x0e1116'
+
+    # Normal colors
+    normal:
+      black: '0x0e1116'
+      red: '0xa0111f'
+      green: '0x024c1a'
+      yellow: '0x3f2200'
+      blue: '0x0349b4'
+      magenta: '0x622cbc'
+      cyan: '0x1b7c83'
+      white: '0x66707b'
+
+    # Bright colors
+    bright:
+      black: '0x4b535d'
+      red: '0x86061d'
+      green: '0x055d20'
+      yellow: '0x4e2c00'
+      blue: '0x1168e3'
+      magenta: '0x622cbc'
+      cyan: '0x1b7c83'
+      white: '0x66707b'
+
+  github_light_tritanopia: &github_light_tritanopia
+    # Default colors
+    primary:
+      background: '0xffffff'
+      foreground: '0x1b1f24'
+
+    # Cursor colors
+    cursor:
+      text: '0xffffff'
+      cursor: '0x24292f'
+
+    # Normal colors
+    normal:
+      black: '0x24292f'
+      red: '0xcf222e'
+      green: '0x0550ae'
+      yellow: '0x4d2d00'
+      blue: '0x0969da'
+      magenta: '0x8250df'
+      cyan: '0x1b7c83'
+      white: '0x6e7781'
+
+    # Bright colors
+    bright:
+      black: '0x57606a'
+      red: '0xa40e26'
+      green: '0x0969da'
+      yellow: '0x633c01'
+      blue: '0x218bff'
+      magenta: '0x8250df'
+      cyan: '0x1b7c83'
+      white: '0x6e7781'
 
   Mariana: &Mariana
     primary:
@@ -2635,7 +2767,7 @@ schemes:
     cursor:
       text: '#232936'
       cursor: '#51617d'
-    
+
     # Normal colors
     normal:
       black: '#1b202a'
@@ -2663,17 +2795,17 @@ schemes:
     primary:
       background: "0x282726"
       foreground: "0xFFFCF0"
-  
+
       dim_foreground: "0xFFFCF0"
       bright_foreground: "0xFFFCF0"
       dim_background: "0x1C1B1A"
       bright_background: "0x1C1B1A"
-  
+
     # Cursor colors
     cursor:
       text: "0xFFFCF0"
       cursor: "0xFFFCF0"
-  
+
     # Normal colors
     normal:
       black: "0x100F0F"
@@ -2684,7 +2816,7 @@ schemes:
       magenta: "0xA02F6F"
       cyan: "0x24837B"
       white: "0xFFFCF0"
-  
+
     # Bright colors
     bright:
       black: "0x100F0F"
@@ -2695,7 +2827,7 @@ schemes:
       magenta: "0xCE5D97"
       cyan: "0x3AA99F"
       white: "0xFFFCF0"
-  
+
     # Dim colors
     dim:
       black: "0x100F0F"
