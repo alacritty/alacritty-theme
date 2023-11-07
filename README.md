@@ -49,7 +49,10 @@ configuration file.
 |                                              **_breeze_**<br>[source](https://github.com/KDE/breeze)                                              |                ![breeze](images/breeze.png)                |
 |              **_campbell_**<br>[source](https://blogs.msdn.microsoft.com/commandline/2017/08/02/updating-the-windows-console-colors)              |              ![campbell](images/campbell.png)              |
 |              **_carbonfox_**<br>[source](https://github.com/edeneast/nightfox.nvim/raw/main/extra/carbonfox/nightfox_alacritty.yml)               |             ![carbonfox](images/carbonfox.png)             |
-|              **_catppuccin_**<br>[source](https://github.com/catppuccin/catppuccin)                                                               |              ![catppuccin](images/catppuccin.png)          |
+|                                    **_catppuccin_frappe_**<br>[source](https://github.com/catppuccin/alacritty)                                   |     ![catppuccin_frappe](images/catppuccin_frappe.png)     |
+|                                 **_catppuccin_latte_**<br>[source](https://github.com/catppuccin/alacritty)                                       |      ![catppuccin_latte](images/catppuccin_latte.png)      |
+|                                  **_catppuccin_macchiato_**<br>[source](https://github.com/catppuccin/alacritty)                                  |  ![catppuccin_macchiato](images/catppuccin_macchiato.png)  |
+|                                    **_catppuccin_mocha_**<br>[source](https://github.com/catppuccin/alacritty)                                    |      ![catppuccin_mocha](images/catppuccin_mocha.png)      |
 |                               **_challenger_deep_**<br>[source](https://github.com/challenger-deep-theme/alacritty)                               |       ![challenger_deep](images/challenger_deep.png)       |
 |                                              **_city_lights_**<br>[source](https://citylights.xyz/)                                               |           ![city_lights](images/citylights.png)            |
 |                                 **_Cobalt2_**<br>[source](https://github.com/wesbos/cobalt2/tree/master/Cobalt2)                                  |               ![Cobalt2](images/Cobalt2.png)               |
