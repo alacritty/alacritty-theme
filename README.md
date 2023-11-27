@@ -17,17 +17,18 @@ mkdir -p ~/.config/alacritty/themes
 git clone https://github.com/alacritty/alacritty-theme ~/.config/alacritty/themes
 ```
 
-Add an import to your `alacritty.yml` (Replace `{theme}` with your desired
+Add an import to your `alacritty.toml` (Replace `{theme}` with your desired
 colorscheme):
 
-```yaml
-import:
- - ~/.config/alacritty/themes/themes/{theme}.yaml
+```toml
+import = [
+    "~/.config/alacritty/themes/themes/{theme}.toml"
+]
 ```
 
 ### Manual
 
-To manually include a colorscheme in an existing `alacritty.yml`, you just need
+To manually include a colorscheme in an existing `alacritty.toml`, you just need
 to copy the entire content of the theme into the root level of your
 configuration file.
 
@@ -150,10 +151,9 @@ repository.
 
 To add a new theme, just create a Pull Request with the following changes:
 
- - Add your theme to the `themes` directory with the `{theme}.yaml` file format
+ - Add your theme to the `themes` directory with the `{theme}.toml` file format
  - Create a screenshot of your theme using the [`print_colors.sh`](./print_colors.sh) script
  - Add the screenshot to the `images` directory with the `{theme}.png` file format
- - Add your theme to the `schemes.yaml`
  - Add your theme to the `README.md`, following alphabetical ordering
 
 ## Maintainers
