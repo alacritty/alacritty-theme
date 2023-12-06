@@ -1237,6 +1237,30 @@ schemes:
       magenta: '0xff9966'
       cyan:    '0xffcc99'
       white:   '0xd9d9d9'
+      
+  iris: &iris
+    primary:
+      background: '#272537'
+      foreground: '#e8e6e9'
+    normal:
+      black:   '#111133'
+      red:     '#d61d52'
+      green:   '#48a842'
+      yellow:  '#e1a51c'
+      blue:    '#5556d3'
+      magenta: '#8650d3'
+      cyan:    '#52afb7'
+      white:   '#9f9aa7'
+    bright:
+      black:   '#484867'
+      red:     '#e15877'
+      green:   '#71ab3a'
+      yellow:  '#c6a642'
+      blue:    '#6d6dc9'
+      magenta: '#956ad3'
+      cyan:    '#6ab6bd'
+      white:   '#e8e6e9'
+
   iterm_default: &iterm_default
     primary:
       background: '0x101421'
