@@ -88,6 +88,7 @@ configuration file.
 |                                 **_horizon-dark_**<br>[source](https://github.com/jolaleye/horizon-theme-vscode)                                  |          ![horizon-dark](images/horizon-dark.png)          |
 |                                                     **_hyper_**<br>[source](https://hyper.is)                                                     |                 ![hyper](images/hyper.png)                 |
 |                                 **_inferno_**<br>[source](https://github.com/hafiz-muhammad/inferno-alacritty-theme)                              |                 ![inferno](images/inferno.png)             |
+|                                 **_iris_**<br>[source](https://github.com/DioptricDesign/Iris)                                                    |                 ![iris](images/iris.png)                   |
 |                                                                    **_iterm_**                                                                    |                 ![iterm](images/iterm.png)                 |
 |                                 **_kanagawa_dragon_**<br>[source](https://github.com/rebelot/kanagawa.nvim)                                       |          ![kanagawa_dragon](images/kanagawa_dragon.png)    |
 |                                  **_kanagawa_wave_**<br>[source](https://github.com/rebelot/kanagawa.nvim)                                        |          ![kanagawa_wave](images/kanagawa_wave.png)        |
