@@ -1,6 +1,20 @@
 # Alacritty's default color scheme pre-0.13 (based on tomorrow_night)
 # https://github.com/alacritty/alacritty/blob/v0.12.3/alacritty/src/config/color.rs
 
+[colors.primary]
+foreground = "#c5c8c6"
+background = "#1d1f21"
+
+[colors.normal]
+black = "#1d1f21"
+red = "#cc6666"
+green = "#b5bd68"
+yellow = "#f0c674"
+blue = "#81a2be"
+magenta = "#b294bb"
+cyan = "#8abeb7"
+white = "#c5c8c6"
+
 [colors.bright]
 black = "#666666"
 red = "#d54e53"
@@ -24,20 +38,6 @@ white = "#828482"
 [colors.hints]
 start = { foreground = "#1d1f21", background = "#e9ff5e" }
 end = { foreground = "#e9ff5e", background = "#1d1f21" }
-
-[colors.normal]
-black = "#1d1f21"
-red = "#cc6666"
-green = "#b5bd68"
-yellow = "#f0c674"
-blue = "#81a2be"
-magenta = "#b294bb"
-cyan = "#8abeb7"
-white = "#c5c8c6"
-
-[colors.primary]
-foreground = "#c5c8c6"
-background = "#1d1f21"
 
 [colors.search]
 matches = { foreground = "#000000", background = "#ffffff" }
