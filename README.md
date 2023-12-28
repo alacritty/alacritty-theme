@@ -39,6 +39,7 @@ configuration file.
 |                                   **_afterglow_**<br>[source](https://github.com/YabataDesign/afterglow-theme)                                    |        ![base16_default_dark](images/afterglow.png)        |
 |                                   **_alabaster_**<br>[source](https://github.com/tonsky/vscode-theme-alabaster)                                   |             ![alabaster](images/alabaster.png)             |
 |                                   **_alabaster_dark_**<br>[source](https://github.com/gargakshit/vscode-theme-alabaster-dark)                     |        ![alabaster_dark](images/alabaster_dark.png)        |
+|                **_alacritty_0_12_**<br>[source](https://github.com/alacritty/alacritty/blob/v0.12.3/alacritty/src/config/color.rs)                |        ![alacritty_0_12](images/alacritty_0_12.png)        |
 |                                      **_argonaut_**<br>[source](https://github.com/pwaleczek/Argonaut-theme)                                      |        ![base16_default_dark](images/argonaut.png)         |
 |                  **_atom_one_light_**<br>[source](https://github.com/dexpota/kitty-themes/blob/master/themes/AtomOneLight.conf)                   |        ![atom_one_light](images/atom_one_light.png)        |
 |                                        **_ayu_dark_**<br>[source](https://github.com/ayu-theme/ayu-colors)                                        |              ![ayu_dark](images/ayu_dark.png)              |
@@ -60,7 +61,7 @@ configuration file.
 |                                 **_cyber_punk_neon_**<br>[source](https://github.com/Roboron3042/Cyberpunk-Neon)                                  |       ![cyber_punk_neon](images/cyber_punk_neon.png)       |
 |                                                **_darcula_**<br>[source](https://draculatheme.com)                                                |               ![darcula](images/darcula.png)               |
 |         **_dark_pastels_**<br>[source](https://invent.kde.org/utilities/konsole/-/blob/master/data/color-schemes/DarkPastels.colorscheme)         |          ![dark_pastels](images/dark_pastels.png)          |
-|                                                                  **_deep_space_**                                                                 |             ![depp_space](images/deep_space.png)           |                                         
+|                                                                  **_deep_space_**                                                                 |             ![depp_space](images/deep_space.png)           |
 |                                     **_doom_one_**<br>[source](https://github.com/hlissner/emacs-doom-themes)                                     |              ![doom_one](images/doom_one.png)              |
 |                                                **_dracula_**<br>[source](https://draculatheme.com)                                                |               ![dracula](images/dracula.png)               |
 |                                     **_everforest_dark_**<br>[source](https://github.com/sainnhe/everforest)                                      |       ![everforest_dark](images/everforest_dark.png)       |
