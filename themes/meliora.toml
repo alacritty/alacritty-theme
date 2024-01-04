@@ -19,10 +19,6 @@ cursor = '#d6d0cd'
 matches = { foreground = '#1c1917', background = '#24201e' }
 focused_match = { foreground = '#1c1917', background = '#2a2522' }
 
-[colors.footer_bar]
-foreground = '#1c1917'
-background = '#b8aea8'
-
 # Keyboard regex hints
 [colors.hints]
 start = { foreground = '#1c1917', background = '#c4b392' }
