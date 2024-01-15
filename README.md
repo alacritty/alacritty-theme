@@ -42,6 +42,7 @@ configuration file.
 |                **_alacritty_0_12_**<br>[source](https://github.com/alacritty/alacritty/blob/v0.12.3/alacritty/src/config/color.rs)                |        ![alacritty_0_12](images/alacritty_0_12.png)        |
 |                                      **_argonaut_**<br>[source](https://github.com/pwaleczek/Argonaut-theme)                                      |        ![base16_default_dark](images/argonaut.png)         |
 |                  **_atom_one_light_**<br>[source](https://github.com/dexpota/kitty-themes/blob/master/themes/AtomOneLight.conf)                   |        ![atom_one_light](images/atom_one_light.png)        |
+|                  **_aura_**<br>[source](https://github.com/daltonmenezes/aura-theme)                   |        ![aura](images/aura.png)        |
 |                                        **_ayu_dark_**<br>[source](https://github.com/ayu-theme/ayu-colors)                                        |              ![ayu_dark](images/ayu_dark.png)              |
 |                                       **_ayu_light_**<br>[source](https://github.com/ayu-theme/ayu-colors)                                        |             ![ayu_light](images/ayu_light.png)             |
 |                                   **_baitong_**<br>[source](https://github.com/cypj/baitong-theme)                                                |         ![baitong](images/baitong.png)                     |
