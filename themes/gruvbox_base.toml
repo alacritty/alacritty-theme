@@ -1,0 +1,63 @@
+[colors]
+indexed_colors = [
+  # dark mode
+  { index = 235, color = "#282828" }, # bg (black)
+  { index = 124, color = "#cc241d" }, # red
+  { index = 106, color = "#98971a" }, # green
+  { index = 172, color = "#d79921" }, # yellow
+  { index =  66, color = "#458588" }, # blue
+  { index = 132, color = "#b16286" }, # purple
+  { index =  72, color = "#689d6a" }, # aqua 
+  { index = 246, color = "#a89984" }, # gray (white)
+  { index = 245, color = "#928374" }, # gray (bright black)
+  { index = 167, color = "#fb4934" }, # bright red
+  { index = 142, color = "#b8bb26" }, # bright green
+  { index = 214, color = "#fabd2f" }, # bright yellow
+  { index = 109, color = "#83a598" }, # bright blue
+  { index = 175, color = "#d3869b" }, # bright purple
+  { index = 108, color = "#8ec07c" }, # bright aqua
+  { index = 223, color = "#ebdbb2" }, # fg (white)
+  { index = 234, color = "#1d2021" }, # bg0_h
+  { index = 237, color = "#3c3836" }, # bg1
+  { index = 239, color = "#504945" }, # bg2
+  { index = 241, color = "#665c54" }, # bg3
+  { index = 243, color = "#7c6f64" }, # bg4
+  { index = 166, color = "#d65d0e" }, # orange
+  { index = 236, color = "#32302F" }, # bg0_s
+  # dark mode: gray (white)           # fg4
+  { index = 248, color = "#bdae93" }, # fg3
+  { index = 250, color = "#d5c4a1" }, # fg2
+  { index = 229, color = "#fbf1c7" }, # fg0
+  { index = 208, color = "#fe8019" }, # bright orange
+
+  # light mode
+  # dark mode: fg0                    # bg (black)
+  # dark mode: red                    # red
+  # dark mode: green                  # green
+  # dark mode: yellow                 # yellow
+  # dark mode: blue                   # blue
+  # dark mode: purple                 # purple
+  # dark mode: aqua                   # aqua 
+  # dark mode: bg4                    # gray (white)
+  { index = 244, color = "#928374" }, # gray (bright black)
+  { index =  88, color = "#9d0006" }, # bright red
+  { index = 100, color = "#79740e" }, # bright green
+  { index = 136, color = "#b57614" }, # bright yellow
+  { index =  24, color = "#076678" }, # bright blue
+  { index =  96, color = "#8f3f71" }, # bright purple
+  # { index =  66, color = "#427b58" }, # bright aqua
+  # dark mode: bg1                    # fg (white)
+  { index = 230, color = "#f9f5d7" }, # bg0_h
+  # dark mode: fg                     # bg1
+  # dark mode: fg2                    # bg2
+  # dark mode: fg3                    # bg3
+  # dark mode: fg4                    # bg4
+  # dark mode: orange                 # orange
+  { index = 228, color = "#f2e5bc" }, # bg0_s
+  # dark mode: bg4                    # fg4
+  # dark mode: bg3                    # fg3
+  # dark mode: bg2                    # fg2
+  # dark mode: bg1                    # fg1
+  # dark mode: bg                     # fg0
+  { index = 130, color = "#af3a03" }, # bright orange
+]
