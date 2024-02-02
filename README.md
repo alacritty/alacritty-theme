@@ -36,8 +36,8 @@ configuration file.
 This function makes use of `fzf` to let you easily change colorschemes in Alacritty:
 ```sh
 function alacritty-themes() {
-    selected_theme=$(ls -1 .config/alacritty/themes/themes/ | cut -d '.' -f 1 | fzf | tr -d '\n')
-    cat .config/alacritty/themes/themes/$selected_theme.toml > .config/alacritty/themes/main.toml
+    selected_theme=$(ls -1 ~/.config/alacritty/themes/themes/ | cut -d '.' -f 1 | fzf | tr -d '\n')
+    cat ~/.config/alacritty/themes/themes/$selected_theme.toml > ~/.config/alacritty/themes/main.toml
     echo "Theme changed to $selected_theme"
 }
 ```
