@@ -1,5 +1,4 @@
-[colors]
-indexed_colors = [
+colors.indexed_colors = [
   # dark mode
   { index = 235, color = "#282828" }, # bg (black)
   { index = 124, color = "#cc241d" }, # red
