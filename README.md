@@ -26,13 +26,23 @@ import = [
 ]
 ```
 
-### Automated theme switching based on System theme in Gnome
-Automated switching uses systemd on gnome by plugging into the dbus and then swithcing which theme file is being imported.
-
+### Automatically switch theme based on System Appearance
+Automatically switch themes based on the current System Appearance (light/dark mode). You can edit both the `light_theme.toml` and `dark-theme.toml` file and set it to one of the options from the themes directory (or paste in your color scheme directly in light/dark file) and include the following in your main `alacritty.toml` file:
+```toml
+import = [
+    "~/.config/alacritty/themes/theme.toml"
+]
+```
+Then we'll install the systemd service, by opening a terminal in this current folder and running the following:
 ``` sh
 cp ./AlacrittyAutoTheme.service ~/.config/systemd/user/
 systemctl --user enable AlacrittyAutoTheme.service
 systemctl --user start AlacrittyAutoTheme.service
+```
+That's it, now when you switch your system theme, all Alacritty windows will also switch the respective light/dark themes you picked.
+`NOTE`: This is dependent on Gnome and systemd. The script is designed to work as an user-space systemd service and supports Gnome (`gsettings`) desktop environments. However, you can use the `theme.toml` file setup to manually change which theme is active by:
+``` sh
+echo "import = [ '.~/.config/alacritty/themes/light_theme.toml' ]" > ./theme.toml
 ```
 
 ### Manual
