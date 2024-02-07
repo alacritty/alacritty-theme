@@ -26,6 +26,15 @@ import = [
 ]
 ```
 
+### Automated theme switching based on System theme in Gnome
+Automated switching uses systemd on gnome by plugging into the dbus and then swithcing which theme file is being imported.
+
+``` sh
+cp ./AlacrittyAutoTheme.service ~/.config/systemd/user/
+systemctl --user enable AlacrittyAutoTheme.service
+systemctl --user start AlacrittyAutoTheme.service
+```
+
 ### Manual
 
 To manually include a colorscheme in an existing `alacritty.toml`, you just need
