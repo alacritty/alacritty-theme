@@ -121,6 +121,7 @@ configuration file.
 |              **_papercolor_dark_**<br>[source](https://github.com/NLKNguyen/papercolor-theme/blob/master/colors/PaperColor.vim#L126)              |       ![papercolor_dark](images/papercolor_dark.png)       |
 |              **_papercolor_light_**<br>[source](https://github.com/NLKNguyen/papercolor-theme/blob/master/colors/PaperColor.vim#L36)              |      ![papercolor_light](images/papercolor_light.png)      |
 |                  **_papertheme_**<br>[source](https://github.com/s6muel/paper-theme/blob/main/themes/alacritty/paper-theme.yml)                   |         ![papercolor_light](images/papertheme.png)         |
+|     **_pastel_dark_**<br>[source](https://github.com/gnachman/iTerm2/blob/01c280152acebfe123f56e0215a3c178297a0edc/plists/ColorPresets.plist)     |           ![pastel_dark](images/pastel_dark.png)           |
 |                                   **_pencil_dark_**<br>[source](https://github.com/mattly/iterm-colors-pencil)                                    |           ![pencil_dark](images/pencil_dark.png)           |
 |                                   **_pencil_light_**<br>[source](https://github.com/mattly/iterm-colors-pencil)                                   |          ![pencil_light](images/pencil_light.png)          |
 |                                                                   **_rainbow_**                                                                   |               ![rainbow](images/rainbow.png)               |
