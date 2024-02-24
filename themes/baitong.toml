@@ -16,7 +16,7 @@ cursor = '#ff00ff'
 matches = { foreground = '#000000', background = '#1AE642' }
 focused_match = { foreground = '#000000', background = '#ff00ff' }
 
-[colorshints]
+[colors.hints]
 start = { foreground = '#1d1f21', background = '#1AE642' }
 end = { foreground = '#1AE642', background = '#1d1f21' }
 
