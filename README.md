@@ -136,6 +136,7 @@ configuration file.
 | **smoooooth**<br>[source](https://github.com/gnachman/iTerm2/blob/33945e63ad48ed80d6cc1adf7cbeb663217652d2/plists/ColorPresets.plist#L4345-L4685) |             ![smoooooth](images/smoooooth.png)             |
 |                                      **_solarized_dark_**<br>[source](http://ethanschoonover.com/solarized)                                       |        ![solarized_dark](images/solarized_dark.png)        |
 |                                      **_solarized_light_**<br>[source](http://ethanschoonover.com/solarized)                                      |       ![solarized_light](images/solarized_light.png)       |
+|                               **_solarized_osaka_**<br>[source](https://github.com/craftzdog/solarized-osaka.nvim)                                |     ![solarized_osaka](images/solarized_osaka.png)         |
 |                                    **_taerminal_**<br>[source](https://github.com/cozywigwam/iterm-taerminal)                                     |             ![taerminal](images/taerminal.png)             |
 |   **_tango_dark_**<br>[source](https://github.com/GNOME/gnome-terminal/blob/18939a24d21d6b7c6edd57a00a3a8a48f3aecec5/src/profile-editor.c#L213)   |            ![tango_dark](images/tango_dark.png)            |
 |                                      **_tender_**<br>[source](https://github.com/huyvohcmc/tender-alacritty)                                      |                ![tender](images/tender.png)                |
