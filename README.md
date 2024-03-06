@@ -81,6 +81,7 @@ configuration file.
 | **_github_light_colorblind_**<br>[source](https://github.com/projekt0n/github-theme-contrib/blob/main/themes/alacritty/github_light_colorblind.yml)| ![github_light_colorblind](images/github_light_colorblind.png) |
 | **_github_light_high_contrast_**<br>[source](https://github.com/projekt0n/github-theme-contrib/blob/main/themes/alacritty/github_light_high_contrast.yml)| ![github_light_high_contrast](images/github_light_high_contrast.png)|
 | **_github_light_tritanopia_**<br>[source](https://github.com/projekt0n/github-theme-contrib/blob/main/themes/alacritty/github_light_tritanopia.yml)| ![github_light_tritanopia](images/github_light_tritanopia.png) |
+|                                                                   **_google_**                                                                    |                ![falcon](images/google.png)                |
 |                                                                   **_gotham_**                                                                    |                ![falcon](images/gotham.png)                |
 |                                  **_gnome_terminal_**<br>[source](https://gitlab.gnome.org/GNOME/gnome-terminal)                                  |        ![gnome_terminal](images/gnome_terminal.png)        |
 |                                        **_gruvbox_dark_**<br>[source](https://github.com/morhetz/gruvbox)                                         |          ![gruvbox_dark](images/gruvbox_dark.png)          |
