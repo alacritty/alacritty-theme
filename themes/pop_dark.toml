@@ -1,0 +1,39 @@
+# Pop! Dark from https://github.com/pop-os/cosmic-term/blob/master/color-schemes/Pop%20Dark.ron
+
+# Default colors
+[colors.primary]
+background = '#0f0f0f'
+foreground = '#f2f2f2'
+
+# Normal colors
+[colors.normal]
+black      = '#333333'
+red        = '#cc0000'
+green      = '#4e9a06'
+yellow     = '#c4a000'
+blue       = '#3465a4'
+magenta    = '#75507b'
+cyan       = '#06989a'
+white      = '#d3d7cf'
+
+# Bright colors
+[colors.bright]
+black      = '#88807c'
+red        = '#f15d22'
+green      = '#73c48f'
+yellow     = '#ffce51'
+blue       = '#48b9c7'
+magenta    = '#ad7fa8'
+cyan       = '#34e2e2'
+white      = '#eeeeec'
+
+# Dim colors
+[colors.dim]
+black      = '#272727'
+red        = '#a1362b'
+green      = '#558737'
+yellow     = '#b1942d'
+blue       = '#3b5981'
+magenta    = '#5d4d5f'
+cyan       = '#288889'
+white      = '#c7c7c7'

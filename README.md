@@ -128,6 +128,7 @@ configuration file.
 |                                   **_pencil_dark_**<br>[source](https://github.com/mattly/iterm-colors-pencil)                                    |           ![pencil_dark](images/pencil_dark.png)           |
 |                                   **_pencil_light_**<br>[source](https://github.com/mattly/iterm-colors-pencil)                                   |          ![pencil_light](images/pencil_light.png)          |
 |                                                                   **_rainbow_**                                                                   |               ![rainbow](images/rainbow.png)               |
+|                    **_pop_dark_**<br>[source](https://github.com/pop-os/cosmic-term/blob/master/color-schemes/Pop%20Dark.ron)                     |              ![pop_dark](images/pop_dark.png)              |
 |                                  **_remedy_dark_**<br>[source](https://github.com/robertrossmann/vscode-remedy)                                   |           ![remedy_dark](images/remedy_dark.png)           |
 |                                        **_rose-pine_**<br>[source](https://github.com/rose-pine/alacritty)                                        |             ![rose-pine](images/rose-pine.png)             |
 |                                        **_rose-pine-dawn_**<br>[source](https://github.com/rose-pine/alacritty)                                        |             ![rose-pine-dawn](images/rose-pine-dawn.png)             |
