@@ -64,6 +64,7 @@ configuration file.
 |                                 **_Cobalt2_**<br>[source](https://github.com/wesbos/cobalt2/tree/master/Cobalt2)                                  |               ![Cobalt2](images/Cobalt2.png)               |
 |                                 **_cyber_punk_neon_**<br>[source](https://github.com/Roboron3042/Cyberpunk-Neon)                                  |       ![cyber_punk_neon](images/cyber_punk_neon.png)       |
 |                                                **_darcula_**<br>[source](https://draculatheme.com)                                                |               ![darcula](images/darcula.png)               |
+|                                                **_darcula_plus_**<br>[source](https://draculatheme.com)                                                |               ![darcula_plus](images/darcula_plus.png)               |
 |         **_dark_pastels_**<br>[source](https://invent.kde.org/utilities/konsole/-/blob/master/data/color-schemes/DarkPastels.colorscheme)         |          ![dark_pastels](images/dark_pastels.png)          |
 |                                                                  **_deep_space_**                                                                 |             ![depp_space](images/deep_space.png)           |
 |                                     **_doom_one_**<br>[source](https://github.com/hlissner/emacs-doom-themes)                                     |              ![doom_one](images/doom_one.png)              |
