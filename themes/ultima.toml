@@ -1,0 +1,62 @@
+
+# ultima dark color schema for alacritty
+# Egor Lem https://egorlem.com/ 
+# https://github.com/egorlem/ultima.terminals-scheme
+
+# DEFAULT COLORS ===============================================================
+[colors.primary]
+  background = '#1c1c1c'
+  foreground = '#dadada'
+  dim_foreground = '#dadada' # text
+  bright_foreground = '#dadada' # text
+# SEARCH COLORS ================================================================
+[colors.search.matches]
+  foreground = '#1c1c1c'
+  background = '#87d7af' 
+[colors.search.focused_match]
+  foreground = '#1c1c1c' 
+  background = '#d7d787' 
+[colors.footer_bar]
+  foreground = '#dadada' 
+  background = '#005f5f' 
+# CURSOR COLORS ================================================================
+[colors.cursor]
+  cursor = '#87d7af'
+  text = '#1c1c1c'
+[colors.vi_mode_cursor]
+  cursor = '#afafff' 
+  text = '#1c1c1c'
+# SELECTION COLORS =============================================================
+[colors.selection]
+  background = '#005f5f'
+  text = '#60d7d7'
+# NORMAL COLORS ================================================================
+[colors.normal]
+  black = '#080808'
+  blue = '#5fafd7'
+  cyan = '#5fd7d7'
+  green = '#87d7af'
+  magenta = '#afafff'
+  red = '#ff5f5f'
+  white = '#dadada'
+  yellow = '#d7d787'
+# BRIGHT COLORS ================================================================
+[colors.bright]
+  black = '#8a8a8a'
+  blue = '#87afd7'
+  cyan = '#87d7d7'
+  green = '#afd7af'
+  magenta = '#afafd7'
+  red = '#d75f5f'
+  white = '#dadada'
+  yellow = '#d7d7af'
+# DIM COLORS ===================================================================
+[colors.dim]
+ black = '#8a8a8a'
+  blue = '#87afd7'
+  cyan = '#87d7d7'
+  green = '#afd7af'
+  magenta = '#afafd7'
+  red = '#d75f5f'
+  white = '#dadada'
+  yellow = '#d7d7af'
