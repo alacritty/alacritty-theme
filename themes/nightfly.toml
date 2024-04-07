@@ -1,6 +1,4 @@
-#Source https://github.com/bluz71/vim-nightfly-colors
-[colors]
-draw_bold_text_with_bright_colors = true
+# Source https://github.com/bluz71/vim-nightfly-colors
 
 [colors.bright]
 black = "#7c8f8f"
