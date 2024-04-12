@@ -1,0 +1,34 @@
+# enfocado_neon_dark
+# Source https//github.com/codex0x09/
+
+# Default colors
+[colors.primary]
+background = '#181818'
+foreground = '#f8f8f2'
+
+# uncomment the following tow lines to color cursor
+[colors.cursor]
+# text   = '#181818'
+# cursor = '#faffea'
+
+# Normal colors
+[colors.normal]
+black   = '#4a4a4a'
+red     = '#ed4a46'
+green   = '#70b433'
+yellow  = '#ee5400'
+blue    = '#a572d2'
+magenta = '#eb4eb7'
+cyan    = '#56b8c9'
+white   = '#b7b7b7'
+
+# Bright colors
+[colors.bright]
+black   = '#8a8a8a'
+red     = '#ff3c35'
+green   = '#83c746'
+yellow  = '#ff6400'
+blue    = '#b891f5'
+magenta = '#fb4fb7'
+cyan    = '#3fc5b7'
+white   = '#dedede'

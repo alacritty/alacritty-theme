@@ -1,0 +1,34 @@
+# enfocado_neon_light
+# Source https//github.com/codex#09/
+
+# Default colors
+[colors.primary]
+background = '#ffffff'
+foreground = '#373737'
+
+# uncomment the following tow lines to color cursor
+[colors.cursor]
+# text   = '#ffffff'
+# cursor = '#000000'
+
+# Normal colors
+[colors.normal]
+black =   '#4a4a4a'
+red =     '#d6000c'
+green =   '#1d9700'
+yellow  = '#ee5400'
+blue    = '#7250b0'
+magenta = '#dd0f9d'
+cyan =    '#00ad9c'
+white =   '#dadada'
+
+# Bright colors
+[colors.bright]
+black =   '#878787'
+red =     '#bf0000'
+green =   '#008400'
+yellow  = '#ee5300'
+blue    = '#a780e4'
+magenta = '#c7008b'
+cyan =    '#009a8a'
+white =   '#282828'
