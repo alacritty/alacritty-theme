@@ -17,7 +17,7 @@ mkdir -p ~/.config/alacritty/themes
 git clone https://github.com/alacritty/alacritty-theme ~/.config/alacritty/themes
 ```
 
-Add an import to your `alacritty.toml` (Replace `{theme}` with your desired
+Add an import at the top of your `alacritty.toml` (Replace `{theme}` with your desired
 colorscheme):
 
 ```toml
