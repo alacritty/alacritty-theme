@@ -3,32 +3,27 @@
 
 # Default colors
 [colors.primary]
-background = '#fbf3db'
-foreground = '#42565c'
-
-# uncomment the following tow lines to color cursor
-[colors.cursor]
-# text   = '#ffffff'
-# cursor = '#000000'
+background = '#ffffff'
+foreground = '#474747'
 
 # Normal colors
 [colors.normal]
-black =   '#625050'
-red =     '#d2212d'
-green =   '#489100'
-yellow =  '#c49700'
-blue =    '#0064e4'
-magenta = '#da2da6'
-cyan    = '#56b8c9'
-white =   '#cfcebe'
+black   = '#282828'
+red     = '#d6000c'
+green   = '#1d9700'
+yellow  = '#c49700'
+blue    = '#0064e4'
+magenta = '#dd0f9d'
+cyan    = '#00ad9c'
+white   = '#cdcdcd'
 
 # Bright colors
 [colors.bright]
-black =   '#909995'
-red =     '#cc1729'
-green =   '#428b00'
-yellow =  '#af8500'
-blue =    '#0054cf'
-magenta = '#ea3ea6'
-cyan    = '#2eb4a6'
-white =   '#3a4d53'
+black   = '#878787'
+red     = '#df0000'
+green   = '#008400'
+yellow  = '#af8500'
+blue    = '#0054cf'
+magenta = '#c7008b'
+cyan    = '#009a8a'
+white   = '#ebebeb'
