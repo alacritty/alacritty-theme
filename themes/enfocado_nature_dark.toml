@@ -13,8 +13,8 @@ red     = '#ed4a46'
 green   = '#70b433'
 yellow  = '#dbb32d'
 blue    = '#368aeb'
-magenta = '#eb4eb7'
-cyan    = '#56b8c9'
+magenta = '#eb6eb7'
+cyan    = '#3fc5b7'
 white   = '#b9b9b9'
 
 # Bright colors
