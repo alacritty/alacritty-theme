@@ -68,6 +68,8 @@ configuration file.
 |                                     **_doom_one_**<br>[source](https://github.com/hlissner/emacs-doom-themes)                                     |              ![doom_one](images/doom_one.png)              |
 |                                                **_dracula_**<br>[source](https://draculatheme.com)                                                |               ![dracula](images/dracula.png)               |
 |                                                **_dracula_plus_**<br>[source](https://draculatheme.com)                                           |               ![dracula_plus](images/dracula_plus.png)     |
+|                                                **_enfocado_dark_**<br>[source](https://github.com/wuelnerdotexe/vim-enfocado.git)                 |![enfocado_dark](images/enfocado_dark.png)    |
+|                                                **_enfocado_light_**<br>[source](https://github.com/wuelnerdotexe/vim-enfocado.git)                |![enfocado_light](images/enfocado_light.png)  |
 |                                     **_everforest_dark_**<br>[source](https://github.com/sainnhe/everforest)                                      |       ![everforest_dark](images/everforest_dark.png)       |
 |                                     **_everforest_light_**<br>[source](https://github.com/sainnhe/everforest)                                     |      ![everforest_light](images/everforest_light.png)      |
 |                                           **_falcon_**<br>[source](https://github.com/fenetikm/falcon)                                            |                ![falcon](images/falcon.png)                |
