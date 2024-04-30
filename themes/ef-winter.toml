@@ -1,0 +1,28 @@
+# Colors Ef-Winter
+[colors.normal]
+black = '#1d202f'
+red = '#f47359'
+green = '#29a444'
+yellow = '#b58a52'
+blue = '#3f95f6'
+magenta = '#d369af'
+cyan = '#4fbaef'
+white = '#b8c6d5'
+[colors.bright]
+black = '#4a4f62'
+red = '#ff6a7a'
+green = '#00a392'
+yellow = '#df9080'
+blue = '#029fff'
+magenta = '#af85ea'
+cyan = '#35afbf'
+white = '#807c9f'
+[colors.cursor]
+cursor = '#ff6ff0'
+text = '#0f0b15'
+[colors.primary]
+background = '#0f0b15'
+foreground = '#b8c6d5'
+[colors.selection]
+background = '#342464'
+text = '#b8c6d5'

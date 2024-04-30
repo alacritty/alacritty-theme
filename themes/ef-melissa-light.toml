@@ -1,0 +1,28 @@
+# Colors Ef-Melissa-Light
+[colors.normal]
+black = '#f5e9cb'
+red = '#ba2d2f'
+green = '#007a0a'
+yellow = '#a46110'
+blue = '#375cc6'
+magenta = '#aa3e74'
+cyan = '#3f60af'
+white = '#484431'
+[colors.bright]
+black = '#c7b7a6'
+red = '#c03f3f'
+green = '#008250'
+yellow = '#946830'
+blue = '#265fbf'
+magenta = '#6448ca'
+cyan = '#0f708a'
+white = '#68708a'
+[colors.cursor]
+cursor = '#a07f00'
+text = '#fff6d8'
+[colors.primary]
+background = '#fff6d8'
+foreground = '#484431'
+[colors.selection]
+background = '#f0d4d8'
+text = '#484431'

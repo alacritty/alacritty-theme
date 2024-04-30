@@ -1,0 +1,28 @@
+# Colors Ef-Maris-Light
+[colors.normal]
+black = '#e0e7ef'
+red = '#c3303a'
+green = '#007010'
+yellow = '#805a1f'
+blue = '#375cc6'
+magenta = '#80308f'
+cyan = '#1f66af'
+white = '#151a27'
+[colors.bright]
+black = '#afb8c3'
+red = '#b02440'
+green = '#007047'
+yellow = '#78542f'
+blue = '#003faf'
+magenta = '#5f2fba'
+cyan = '#006f70'
+white = '#676470'
+[colors.cursor]
+cursor = '#036f99'
+text = '#edf4f8'
+[colors.primary]
+background = '#edf4f8'
+foreground = '#151a27'
+[colors.selection]
+background = '#c8dcff'
+text = '#151a27'

@@ -1,0 +1,28 @@
+# Colors Ef-Cherie
+[colors.normal]
+black = '#291f26'
+red = '#ff7359'
+green = '#60b444'
+yellow = '#e5b76f'
+blue = '#8fa5f6'
+magenta = '#ef80bf'
+cyan = '#8fbaef'
+white = '#d3cfcf'
+[colors.bright]
+black = '#594a4f'
+red = '#ff78aa'
+green = '#60bf88'
+yellow = '#f59280'
+blue = '#7fa5ff'
+magenta = '#df7fff'
+cyan = '#8fcfdf'
+white = '#808898'
+[colors.cursor]
+cursor = '#ff5aaf'
+text = '#190a0f'
+[colors.primary]
+background = '#190a0f'
+foreground = '#d3cfcf'
+[colors.selection]
+background = '#232f3f'
+text = '#d3cfcf'

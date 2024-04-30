@@ -1,0 +1,28 @@
+# Colors Ef-Dark
+[colors.normal]
+black = '#1a1a1a'
+red = '#ef6560'
+green = '#0faa26'
+yellow = '#bf9032'
+blue = '#3f95f6'
+magenta = '#d369af'
+cyan = '#4fbaef'
+white = '#d0d0d0'
+[colors.bright]
+black = '#4b4b4b'
+red = '#ff5a7a'
+green = '#00a692'
+yellow = '#df8a5a'
+blue = '#029fff'
+magenta = '#af85ff'
+cyan = '#1dbfcf'
+white = '#857f8f'
+[colors.cursor]
+cursor = '#ff76ff'
+text = '#000000'
+[colors.primary]
+background = '#000000'
+foreground = '#d0d0d0'
+[colors.selection]
+background = '#2a234a'
+text = '#d0d0d0'

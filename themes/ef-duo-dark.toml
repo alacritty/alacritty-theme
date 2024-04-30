@@ -1,0 +1,28 @@
+# Colors Ef-Duo-Dark
+[colors.normal]
+black = '#1d1a26'
+red = '#ef656a'
+green = '#1fa526'
+yellow = '#c48702'
+blue = '#379cf6'
+magenta = '#d369af'
+cyan = '#5faaef'
+white = '#d0d0d0'
+[colors.bright]
+black = '#4a4759'
+red = '#ef798f'
+green = '#00b982'
+yellow = '#df805f'
+blue = '#029fff'
+magenta = '#af85ff'
+cyan = '#0dafdf'
+white = '#857f8f'
+[colors.cursor]
+cursor = '#ef6f11'
+text = '#070019'
+[colors.primary]
+background = '#070019'
+foreground = '#d0d0d0'
+[colors.selection]
+background = '#042a50'
+text = '#d0d0d0'

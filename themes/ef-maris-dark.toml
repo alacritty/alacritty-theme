@@ -1,0 +1,28 @@
+# Colors Ef-Maris-Dark
+[colors.normal]
+black = '#1d2c39'
+red = '#ff6f6f'
+green = '#41bf4f'
+yellow = '#d0d24f'
+blue = '#57b0ff'
+magenta = '#f59acf'
+cyan = '#2fd0db'
+white = '#eaedef'
+[colors.bright]
+black = '#4a5664'
+red = '#ff7788'
+green = '#30c489'
+yellow = '#cab27f'
+blue = '#12b4ff'
+magenta = '#cf90ff'
+cyan = '#65d5a8'
+white = '#969faf'
+[colors.cursor]
+cursor = '#8fdfff'
+text = '#131c2b'
+[colors.primary]
+background = '#131c2b'
+foreground = '#eaedef'
+[colors.selection]
+background = '#183c65'
+text = '#eaedef'

@@ -1,0 +1,28 @@
+# Colors Ef-Tritanopia-Light
+[colors.normal]
+black = '#efecec'
+red = '#aa0010'
+green = '#217a3c'
+yellow = '#805d00'
+blue = '#375cd8'
+magenta = '#aa357f'
+cyan = '#2070af'
+white = '#1a1a1a'
+[colors.bright]
+black = '#bdb9b9'
+red = '#c50f4f'
+green = '#008058'
+yellow = '#765040'
+blue = '#065fff'
+magenta = '#af40af'
+cyan = '#007faa'
+white = '#756275'
+[colors.cursor]
+cursor = '#bb0000'
+text = '#fff9f9'
+[colors.primary]
+background = '#fff9f9'
+foreground = '#1a1a1a'
+[colors.selection]
+background = '#dadadf'
+text = '#1a1a1a'

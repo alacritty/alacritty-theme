@@ -1,0 +1,28 @@
+# Colors Ef-Rosa
+[colors.normal]
+black = '#432e32'
+red = '#ff707f'
+green = '#55cb56'
+yellow = '#e4c53f'
+blue = '#57aff6'
+magenta = '#ffb2d6'
+cyan = '#5fc0dc'
+white = '#e4d3e1'
+[colors.bright]
+black = '#6a5862'
+red = '#f0888f'
+green = '#49d081'
+yellow = '#eec26f'
+blue = '#62cff7'
+magenta = '#cfb1ff'
+cyan = '#80dfbf'
+white = '#9d9d9d'
+[colors.cursor]
+cursor = '#ef607a'
+text = '#322023'
+[colors.primary]
+background = '#322023'
+foreground = '#e4d3e1'
+[colors.selection]
+background = '#45524a'
+text = '#e4d3e1'

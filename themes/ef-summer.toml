@@ -1,0 +1,28 @@
+# Colors Ef-Summer
+[colors.normal]
+black = '#f2e4ea'
+red = '#d3303a'
+green = '#217a3c'
+yellow = '#a45f22'
+blue = '#375ce6'
+magenta = '#ba35af'
+cyan = '#1f6fbf'
+white = '#4f4073'
+[colors.bright]
+black = '#cfb3c4'
+red = '#d50f7f'
+green = '#007f68'
+yellow = '#b65050'
+blue = '#065fff'
+magenta = '#8e44f3'
+cyan = '#0f7b8f'
+white = '#786e74'
+[colors.cursor]
+cursor = '#cf0090'
+text = '#fff2f3'
+[colors.primary]
+background = '#fff2f3'
+foreground = '#4f4073'
+[colors.selection]
+background = '#eecfff'
+text = '#4f4073'

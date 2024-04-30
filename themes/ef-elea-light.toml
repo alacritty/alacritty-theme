@@ -1,0 +1,28 @@
+# Colors Ef-Elea-Light
+[colors.normal]
+black = '#e3e9d6'
+red = '#c3303a'
+green = '#00601f'
+yellow = '#9a501f'
+blue = '#375cc6'
+magenta = '#80308f'
+cyan = '#1f70af'
+white = '#221321'
+[colors.bright]
+black = '#b0b7aa'
+red = '#b02440'
+green = '#007047'
+yellow = '#88541f'
+blue = '#162f8f'
+magenta = '#5032aa'
+cyan = '#00677f'
+white = '#676470'
+[colors.cursor]
+cursor = '#770080'
+text = '#edf5e2'
+[colors.primary]
+background = '#edf5e2'
+foreground = '#221321'
+[colors.selection]
+background = '#d9d2ef'
+text = '#221321'

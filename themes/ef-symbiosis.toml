@@ -1,0 +1,28 @@
+# Colors Ef-Symbiosis
+[colors.normal]
+black = '#221920'
+red = '#ef6360'
+green = '#0faa26'
+yellow = '#bf9032'
+blue = '#3f95f6'
+magenta = '#d369af'
+cyan = '#4fbaef'
+white = '#d0d0d0'
+[colors.bright]
+black = '#4b3f47'
+red = '#fe5a7a'
+green = '#00a692'
+yellow = '#df8a5a'
+blue = '#029fff'
+magenta = '#af85ff'
+cyan = '#1dbfcf'
+white = '#857f8f'
+[colors.cursor]
+cursor = '#f0af7f'
+text = '#130911'
+[colors.primary]
+background = '#130911'
+foreground = '#d0d0d0'
+[colors.selection]
+background = '#2f2630'
+text = '#d0d0d0'

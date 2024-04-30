@@ -1,0 +1,28 @@
+# Colors Ef-Kassio
+[colors.normal]
+black = '#efe7e7'
+red = '#b00234'
+green = '#217a3c'
+yellow = '#9a6012'
+blue = '#3c3bbe'
+magenta = '#a01f64'
+cyan = '#2f5f9f'
+white = '#201f36'
+[colors.bright]
+black = '#c0bbbb'
+red = '#d5305f'
+green = '#008358'
+yellow = '#a04646'
+blue = '#065fff'
+magenta = '#7022bf'
+cyan = '#1077ab'
+white = '#776f79'
+[colors.cursor]
+cursor = '#d06f30'
+text = '#fff7f7'
+[colors.primary]
+background = '#fff7f7'
+foreground = '#201f36'
+[colors.selection]
+background = '#dfe4f4'
+text = '#201f36'

@@ -1,0 +1,28 @@
+# Colors Ef-Deuteranopia-Light
+[colors.normal]
+black = '#e8e8ea'
+red = '#d3303a'
+green = '#217a3c'
+yellow = '#805d00'
+blue = '#375cd8'
+magenta = '#ba35af'
+cyan = '#1f6fbf'
+white = '#1a1a2f'
+[colors.bright]
+black = '#b3b3c0'
+red = '#d50f7f'
+green = '#008058'
+yellow = '#765040'
+blue = '#065fff'
+magenta = '#6052cf'
+cyan = '#1f77bb'
+white = '#70627f'
+[colors.cursor]
+cursor = '#0000bb'
+text = '#f5f5ff'
+[colors.primary]
+background = '#f5f5ff'
+foreground = '#1a1a2f'
+[colors.selection]
+background = '#dadadf'
+text = '#1a1a2f'

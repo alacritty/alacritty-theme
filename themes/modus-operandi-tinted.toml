@@ -1,0 +1,28 @@
+# Colors Modus-Operandi-Tinted
+[colors.normal]
+black = '#efe9dd'
+red = '#a60000'
+green = '#006800'
+yellow = '#6f5500'
+blue = '#0031a9'
+magenta = '#721045'
+cyan = '#005e8b'
+white = '#000000'
+[colors.bright]
+black = '#c9b9b0'
+red = '#a0132f'
+green = '#00663f'
+yellow = '#7a4f2f'
+blue = '#0000b0'
+magenta = '#531ab6'
+cyan = '#005f5f'
+white = '#595959'
+[colors.cursor]
+cursor = '#000000'
+text = '#fbf7f0'
+[colors.primary]
+background = '#fbf7f0'
+foreground = '#000000'
+[colors.selection]
+background = '#c2bcb5'
+text = '#000000'

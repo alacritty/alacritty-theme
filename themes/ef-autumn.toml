@@ -1,0 +1,28 @@
+# Colors Ef-Autumn
+[colors.normal]
+black = '#26211d'
+red = '#ef656a'
+green = '#2fa526'
+yellow = '#c48702'
+blue = '#379cf6'
+magenta = '#d570af'
+cyan = '#4fb0cf'
+white = '#cfbcba'
+[colors.bright]
+black = '#56524f'
+red = '#ff7a7f'
+green = '#00b066'
+yellow = '#df8f6f'
+blue = '#029fff'
+magenta = '#af8aff'
+cyan = '#3dbbb0'
+white = '#887c8a'
+[colors.cursor]
+cursor = '#ffaa33'
+text = '#0f0e06'
+[colors.primary]
+background = '#0f0e06'
+foreground = '#cfbcba'
+[colors.selection]
+background = '#3f1020'
+text = '#cfbcba'

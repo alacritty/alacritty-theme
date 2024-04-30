@@ -1,0 +1,28 @@
+# Colors Ef-Day
+[colors.normal]
+black = '#f2e9db'
+red = '#ba2d2f'
+green = '#007a0a'
+yellow = '#a45a22'
+blue = '#375cc6'
+magenta = '#ca3e54'
+cyan = '#3f60af'
+white = '#584141'
+[colors.bright]
+black = '#c9c0b8'
+red = '#cf2f4f'
+green = '#0f7f5f'
+yellow = '#aa4f30'
+blue = '#265fbf'
+magenta = '#8448aa'
+cyan = '#0f7b8f'
+white = '#63728f'
+[colors.cursor]
+cursor = '#cf1f00'
+text = '#fff5ea'
+[colors.primary]
+background = '#fff5ea'
+foreground = '#584141'
+[colors.selection]
+background = '#f0d2df'
+text = '#584141'

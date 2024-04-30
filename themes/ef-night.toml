@@ -1,0 +1,28 @@
+# Colors Ef-Night
+[colors.normal]
+black = '#1a202b'
+red = '#ef656a'
+green = '#1fa526'
+yellow = '#c48502'
+blue = '#379cf6'
+magenta = '#d570af'
+cyan = '#4fb0cf'
+white = '#afbcbf'
+[colors.bright]
+black = '#444e59'
+red = '#ef798f'
+green = '#00a972'
+yellow = '#df8f6f'
+blue = '#029fff'
+magenta = '#af8aff'
+cyan = '#3dc0b0'
+white = '#70819f'
+[colors.cursor]
+cursor = '#00ccff'
+text = '#000e17'
+[colors.primary]
+background = '#000e17'
+foreground = '#afbcbf'
+[colors.selection]
+background = '#222f40'
+text = '#afbcbf'

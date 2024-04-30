@@ -1,0 +1,28 @@
+# Colors Ef-Cyprus
+[colors.normal]
+black = '#f0ece0'
+red = '#9f0d0f'
+green = '#006f00'
+yellow = '#a7601f'
+blue = '#375cc6'
+magenta = '#9a456f'
+cyan = '#1f70af'
+white = '#242521'
+[colors.bright]
+black = '#c5c3b8'
+red = '#ca3400'
+green = '#00824f'
+yellow = '#a2604f'
+blue = '#065fbf'
+magenta = '#8448aa'
+cyan = '#007a9f'
+white = '#59786f'
+[colors.cursor]
+cursor = '#007f00'
+text = '#fcf7ef'
+[colors.primary]
+background = '#fcf7ef'
+foreground = '#242521'
+[colors.selection]
+background = '#e0e7e5'
+text = '#242521'

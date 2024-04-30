@@ -1,0 +1,28 @@
+# Colors Ef-Melissa-Dark
+[colors.normal]
+black = '#483426'
+red = '#ff7f7f'
+green = '#6fd560'
+yellow = '#e4b53f'
+blue = '#57aff6'
+magenta = '#f0aac5'
+cyan = '#6fcad0'
+white = '#e8e4b1'
+[colors.bright]
+black = '#79665f'
+red = '#ff8f98'
+green = '#65d590'
+yellow = '#e7a06f'
+blue = '#62cfef'
+magenta = '#c6a2fe'
+cyan = '#70e0cf'
+white = '#90918a'
+[colors.cursor]
+cursor = '#f9cf7a'
+text = '#352718'
+[colors.primary]
+background = '#352718'
+foreground = '#e8e4b1'
+[colors.selection]
+background = '#443a4f'
+text = '#e8e4b1'

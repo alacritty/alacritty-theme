@@ -1,0 +1,28 @@
+# Colors Ef-Spring
+[colors.normal]
+black = '#e8f0f0'
+red = '#c42d2f'
+green = '#1a870f'
+yellow = '#a45f22'
+blue = '#375cc6'
+magenta = '#d5206f'
+cyan = '#1f6fbf'
+white = '#34494a'
+[colors.bright]
+black = '#c0c6c3'
+red = '#cf2f4f'
+green = '#007f68'
+yellow = '#ae5a30'
+blue = '#265fbf'
+magenta = '#9435b4'
+cyan = '#0f7b8f'
+white = '#777294'
+[colors.cursor]
+cursor = '#bf005f'
+text = '#f6fff9'
+[colors.primary]
+background = '#f6fff9'
+foreground = '#34494a'
+[colors.selection]
+background = '#d0e6ff'
+text = '#34494a'

@@ -1,0 +1,28 @@
+# Colors Ef-Frost
+[colors.normal]
+black = '#eaefef'
+red = '#c42d2f'
+green = '#008a00'
+yellow = '#aa6100'
+blue = '#004fc0'
+magenta = '#aa44c5'
+cyan = '#1f6fbf'
+white = '#232323'
+[colors.bright]
+black = '#b5b8b8'
+red = '#cf2f4f'
+green = '#00845f'
+yellow = '#996c4f'
+blue = '#065fff'
+magenta = '#7f5ae0'
+cyan = '#007a85'
+white = '#66657f'
+[colors.cursor]
+cursor = '#0055bb'
+text = '#fcffff'
+[colors.primary]
+background = '#fcffff'
+foreground = '#232323'
+[colors.selection]
+background = '#d4eaf3'
+text = '#232323'

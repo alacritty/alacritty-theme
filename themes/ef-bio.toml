@@ -1,0 +1,28 @@
+# Colors Ef-Bio
+[colors.normal]
+black = '#222522'
+red = '#ef6560'
+green = '#3fb83f'
+yellow = '#d4aa02'
+blue = '#37aff6'
+magenta = '#d38faf'
+cyan = '#6fc5ef'
+white = '#cfdfd5'
+[colors.bright]
+black = '#505250'
+red = '#ff778f'
+green = '#00c089'
+yellow = '#cfc04f'
+blue = '#32cfef'
+magenta = '#af9fff'
+cyan = '#5dc0aa'
+white = '#808f80'
+[colors.cursor]
+cursor = '#35f038'
+text = '#111111'
+[colors.primary]
+background = '#111111'
+foreground = '#cfdfd5'
+[colors.selection]
+background = '#3a3027'
+text = '#cfdfd5'

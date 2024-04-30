@@ -1,0 +1,28 @@
+# Colors Ef-Trio-Dark
+[colors.normal]
+black = '#2a2228'
+red = '#f48359'
+green = '#60b444'
+yellow = '#d4a052'
+blue = '#7fa5f6'
+magenta = '#d37faf'
+cyan = '#8fbaff'
+white = '#d8cfd5'
+[colors.bright]
+black = '#564f55'
+red = '#ff85aa'
+green = '#60bf88'
+yellow = '#ef9680'
+blue = '#72afff'
+magenta = '#a698ef'
+cyan = '#8fcfdf'
+white = '#908890'
+[colors.cursor]
+cursor = '#ff99ff'
+text = '#160f0f'
+[colors.primary]
+background = '#160f0f'
+foreground = '#d8cfd5'
+[colors.selection]
+background = '#16304f'
+text = '#d8cfd5'
