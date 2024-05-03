@@ -198,6 +198,7 @@ configuration file.
 | **_xterm_**                                                                                                                                               | ![xterm](images/xterm.png)                                                 |
 | **_zenburn_**<br>[source](https://github.com/jnurmine/Zenburn)                                                                                            | ![zenburn](images/zenburn.png)                                             |
 
+
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at the [alacritty-theme]
