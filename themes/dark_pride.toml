@@ -1,0 +1,34 @@
+# Dark Pride
+# A dark trans pride colour inspired theme
+
+# Primary colors
+[colors.primary]
+background = '#0d0d1b'
+foreground = '#ccccce'
+
+# Colors used for 'custom_cursor_colors'
+[colors.cursor]
+text = '#bbbbbb'
+cursor = '#ff0017'
+
+# Colors 0 through 7
+[colors.normal]
+black = '#282828'
+red = '#ca1444'
+green = '#789aba'
+yellow = '#b3879f'
+blue = '#95569b'
+magenta = '#cb6fa1'
+cyan = '#fb6e93'
+white = '#cf98c1'
+
+# Colors 8 through 15
+[colors.bright]
+black = '#98218e'
+red = '#cb515d'
+green = '#5a87b1'
+yellow = '#9c61ab'
+blue = '#9a77b1'
+magenta = '#f2a297'
+cyan = '#f4436f'
+white = '#ebdbb2'
