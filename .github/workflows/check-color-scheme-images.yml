@@ -1,0 +1,68 @@
+name: Check color scheme images
+
+on:
+
+  pull_request_target: 
+    paths:
+      - "themes/**"
+      - "images/**"
+    branches: [ master ]
+
+jobs:
+  check-color-scheme-images:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: read
+      pull-requests: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          ref: ${{github.event.pull_request.head.ref}}
+          repository: ${{github.event.pull_request.head.repo.full_name}}
+      
+      - name: Check for missing color scheme images
+        id: missingImages
+        run: |
+          declare success=true
+          declare comment=":warning: Color scheme images are missing for the following theme file(s):"
+
+          for toml_file in themes/*.toml; do
+              base_filename=$(basename "${toml_file}" .toml)
+              if [ ! -f "images/${base_filename}.png" ]; then
+                  success=false
+                  theme_file="${base_filename}.toml"
+                  theme_file_link="${{github.server_url}}/${{ github.repository }}/tree/${{ github.head_ref || github.ref_name }}/themes/${theme_file}"
+
+                  echo "ERROR: Missing image file for ${theme_file}"
+              
+                  comment+="<li>[${theme_file}](${theme_file_link})</li>"
+              fi
+          done
+
+          echo "success=${success}" >> $GITHUB_OUTPUT
+          echo "comment=${comment}" >> $GITHUB_OUTPUT
+
+      - name: Comment on PR when failed
+        if: steps.missingImages.outputs.success != 'true'
+        uses: thollander/actions-comment-pull-request@v2
+        with:
+          mode: recreate
+          comment_tag: missing_color_scheme_images
+          message: ${{ steps.missingImages.outputs.comment }}
+      
+      - name: Delete comment when success
+        if: steps.missingImages.outputs.success == 'true'
+        uses: thollander/actions-comment-pull-request@v2
+        with:
+          mode: delete
+          comment_tag: missing_color_scheme_images
+          message: ${{ steps.missingImages.outputs.comment }}
+
+      - name: Fail PR
+        if: steps.missingImages.outputs.success != 'true'
+        run: |
+          echo "Color scheme images are missing for some themes. Please check your PR comment for details."
+          exit 1
