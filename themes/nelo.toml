@@ -1,0 +1,30 @@
+# Colors (Nelo)
+
+# Default colors
+[colors.primary]
+background = '#141819'
+foreground = '#ffffff'
+
+# Normal colors
+[colors.normal]
+black   = '#212429'
+red     = '#eb704d'
+green   = '#74b69a'
+yellow  = '#facd7b'
+blue    = '#07a9e3'
+magenta = '#d187d7'
+cyan    = '#08b5ba'
+white   = '#f9f9f9'
+
+# Bright colors
+[colors.bright]
+black   = '#212429'
+red     = '#eb704d'
+green   = '#74b69a'
+yellow  = '#facd7b'
+blue    = '#07a9e3'
+magenta = '#d187d7'
+cyan    = '#08b5ba'
+white   = '#f9f9f9'
+
+
