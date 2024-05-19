@@ -116,6 +116,7 @@ configuration file.
 |                      **_monokai_pro_**<br>[source](https://gist.github.com/AlphaTechnolog/d1d5f6557f77f71519cb5713268da7dd)                       |           ![monokai_pro](images/monokai_pro.png)           |
 |                             **_moonlight_ii_vscode_**<br>[source](https://github.com/atomiks/moonlight-vscode-theme)                              |   ![moonlight_ii_vscode](images/moonlight_ii_vscode.png)   |
 |                                            **_msx_**<br>[source](https://paulwratt.github.io/programmers-palettes/HW-MSX/HW-MSX-palettes.html)    |              ![msx](images/msx.png)              |
+|                                                                    **_nelo_**                                                                    |                 ![nelo](images/nelo.png)                 |
 |                                       **_nightfly_**<br>[source](https://github.com/bluz71/vim-nightfly-colors)                                   |              ![nightfly](images/nightfly.png)              |
 |                                       **_nightfox_**<br>[source](https://github.com/EdenEast/nightfox.nvim)                                       |              ![nightfox](images/nightfox.png)              |
 |                                       **_night_owl_**<br>[source](https://vscodethemes.com/e/sdras.night-owl/night-owl)                           |             ![night_owl](images/night_owl.png)             |
