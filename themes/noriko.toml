@@ -1,0 +1,32 @@
+# Colors (Noriko - Light)
+
+# Default colors
+[colors.primary]
+background = '#dddddd'
+foreground = '#000000'
+
+[colors.cursor]
+text = '#dddddd'
+cursor = '#00cc66'
+
+# Normal colors
+[colors.normal]
+black   = '#e6e6e6'
+red     = '#990026'
+green   = '#009926'
+yellow  = '#739900'
+blue    = '#002699'
+magenta = '#730099'
+cyan    = '#007399'
+white   = '#000000'
+
+# Bright colors
+[colors.bright]
+black   = '#808080'
+red     = '#992600'
+green   = '#269900'
+yellow  = '#997300'
+blue    = '#260099'
+magenta = '#990073'
+cyan    = '#009973'
+white   = '#ffffff'
