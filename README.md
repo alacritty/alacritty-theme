@@ -95,6 +95,7 @@ configuration file.
 |                                  **_gruvbox_material_medium_dark_**<br>[source](https://github.com/sainnhe/gruvbox-material)                      | ![gruvbox_material_medium_dark](images/gruvbox_material_medium_dark.png) |
 |                                  **_gruvbox_material_medium_light_**<br>[source](https://github.com/sainnhe/gruvbox-material)                      | ![gruvbox_material_medium_light](images/gruvbox_material_medium_light.png) |
 |                                  **_hardhacker_**<br>[source](https://github.com/hardhackerlabs/theme-alacritty)                                  |      ![hardhacker](images/hardhacker.png)                  |
+|                                  **_hatsunemiku_**<br>[source](https://github.com/4513ECHO/vim-colors-hatsunemiku/)                               |            ![hatsunemiku](images/hatsunemiku.png)          |
 |                                                                **_high_contrast_**                                                                |         ![gruvbox_light](images/high_contrast.png)         |
 |                                 **_horizon-dark_**<br>[source](https://github.com/jolaleye/horizon-theme-vscode)                                  |          ![horizon-dark](images/horizon-dark.png)          |
 |                                                     **_hyper_**<br>[source](https://hyper.is)                                                     |                 ![hyper](images/hyper.png)                 |
