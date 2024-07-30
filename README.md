@@ -129,6 +129,7 @@ configuration file.
 |                             **_oceanic_next_**<br>[source](https://github.com/voronianski/oceanic-next-color-scheme)                              |          ![oceanic_next](images/oceanic_next.png)          |
 |                                  **_omni_**<br>[source](https://github.com/getomni/alacritty/blob/main/omni.yml)                                  |                  ![omni](images/omni.png)                  |
 |                                                                  **_one_dark_**                                                                   |              ![one_dark](images/one_dark.png)              |
+|                               **_oxocarbon_**<br>[source](https://github.com/nyoom-engineering/oxocarbon.nvim/tree/main)                          |              ![oxocarbon](images/oxocarbon.png)            |
 |                                  **_palenight_**<br>[source](https://github.com/JonathanSpeek/palenight-iterm2)                                   |             ![palenight](images/palenight.png)             |
 |              **_papercolor_dark_**<br>[source](https://github.com/NLKNguyen/papercolor-theme/blob/master/colors/PaperColor.vim#L126)              |       ![papercolor_dark](images/papercolor_dark.png)       |
 |              **_papercolor_light_**<br>[source](https://github.com/NLKNguyen/papercolor-theme/blob/master/colors/PaperColor.vim#L36)              |      ![papercolor_light](images/papercolor_light.png)      |

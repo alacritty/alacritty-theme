@@ -1,0 +1,34 @@
+# Colors (Oxocarbon)
+# Source https://vimcolorschemes.com/nyoom-engineering/oxocarbon.nvim
+
+# Default colors
+[colors.primary]
+background = '#1b1b1b'
+foreground = '#ffffff'
+
+[colors.cursor]
+text = '#161616' 
+cursor = '#78a9ff'
+
+# Normal colors
+[colors.normal]
+black   = '#161616'
+red     = '#ee5396'
+green   = '#42be65'
+yellow  = '#ff7eb6'
+blue    = '#33b1ff'
+magenta = '#be95ff'
+cyan    = '#3ddbd9'   
+white   = '#ffffff'  
+
+# Bright colors
+[colors.bright]
+black   = '#525252'
+red     = '#ee5396'
+green   = '#42be65'
+yellow  = '#ff7eb6'
+blue    = '#33b1ff'
+magenta = '#be95ff'
+cyan    = '#3ddbd9'   
+white   = '#ffffff'  
+
