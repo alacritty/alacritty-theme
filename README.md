@@ -123,7 +123,7 @@ configuration file.
 |                                       **_night_owl_**<br>[source](https://vscodethemes.com/e/sdras.night-owl/night-owl)                           |             ![night_owl](images/night_owl.png)             |
 |                                                             **_night_owlish_light_**                                                              |    ![night_owlish_light](images/night_owlish_light.png)    |
 |                                       **_noctis-lux_**<br>[source](https://github.com/liviuschera/noctis)                                         |              ![noctis-lux](images/noctis-lux.png)              |
-|                                          **_nord_**<br>[source](https://github.com/arcticicestudio/nord)                                          |                  ![nord](images/nord.png)                  |
+|                                          **_nord_**<br>[source](https://github.com/nordtheme/alacritty)                                          |                  ![nord](images/nord.png)                  |
 |                                          **_nordic_**<br>[source](https://github.com/AlexvZyl/nordic.nvim)                                          |                  ![nordic](images/nordic.png)                  |
 |                                          **_nord_light_**<br>[source](https://github.com/nordtheme/alacritty/issues/28#issuecomment-1422225211)                                          |                  ![nord](images/nord_light.png)                  |
 |                             **_oceanic_next_**<br>[source](https://github.com/voronianski/oceanic-next-color-scheme)                              |          ![oceanic_next](images/oceanic_next.png)          |
