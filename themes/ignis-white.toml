@@ -1,0 +1,31 @@
+
+# ignis-white (best aspects of Campbell + hyper + console, but for white background)
+
+# Default colors
+[colors.primary]
+background = '#ffffff'
+foreground = '#000000'
+
+# Normal color palate
+[colors.normal]
+black      = '#767676'
+red        = '#fd0101'
+green      = '#33fe01'
+yellow     = '#f8f800'
+blue       = '#51a1ff'
+magenta    = '#cb01fe'
+cyan       = '#4fd2fd'
+white      = '#E6E6E6'
+
+# Bright color palate
+[colors.bright]
+black      = '#464646'
+red        = '#bf1c28'
+green      = '#13a00e'
+#yellow     = '#f7e35c'
+yellow     = '#EBEB00'
+blue       = '#1e78e4'
+magenta    = '#871797'
+cyan       = '#0ab9dc'
+white      = '#cccccc'
+
