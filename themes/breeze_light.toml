@@ -1,0 +1,28 @@
+# Crayons Light Alacritty Theme
+
+# Default Colors
+[colors.primary]
+background = '#f6f6f6'
+foreground = '#383a42'
+
+# Normal Colors
+[colors.normal]
+black = '#383a42'
+red = '#e4564a'
+green = '#50a050'
+yellow = '#d7ba00'
+blue = '#0070d4'
+magenta = '#a626a4'
+cyan = '#0ac6cc'
+white = '#f6f6f6'
+
+# Bright Colors
+[colors.bright]
+black = '#323648'
+red = '#ee4d40'
+green = '#44ac44'
+yellow = '#d7ba00'
+blue = '#0070d4'
+magenta = '#b01cae'
+cyan = '#00cfd6'
+white = '#f9fafa'

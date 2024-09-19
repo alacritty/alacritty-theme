@@ -52,6 +52,7 @@ configuration file.
 |                                         **_blood_moon_**<br>[source](https://github.com/dguo/blood-moon)                                          |            ![blood_moon](images/blood_moon.png)            |
 |                                                                   **_bluish_**                                                                    |                ![bluish](images/bluish.png)                |
 |                                              **_breeze_**<br>[source](https://github.com/KDE/breeze)                                              |                ![breeze](images/breeze.png)                |
+|                                        **_breeze_light_**<br>[source](https://github.com/pratikmullick/breeze-light)                              |           ![breeze_light](images/breeze_light.png)         |
 |              **_campbell_**<br>[source](https://blogs.msdn.microsoft.com/commandline/2017/08/02/updating-the-windows-console-colors)              |              ![campbell](images/campbell.png)              |
 |              **_carbonfox_**<br>[source](https://github.com/edeneast/nightfox.nvim/raw/main/extra/carbonfox/nightfox_alacritty.yml)               |             ![carbonfox](images/carbonfox.png)             |
 |                                    **_catppuccin_frappe_**<br>[source](https://github.com/catppuccin/alacritty)                                   |     ![catppuccin_frappe](images/catppuccin_frappe.png)     |
