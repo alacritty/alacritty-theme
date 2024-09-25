@@ -32,6 +32,11 @@ To manually include a colorscheme in an existing `alacritty.toml`, you just need
 to copy the entire content of the theme into the root level of your
 configuration file.
 
+## Theme creation helper
+In case you want to create and use a personalized theme, you can use the below tool:
+
+https://eendroroy.github.io/alacritty-theme-preview/
+
 ## Color Schemes
 
 |                                                                       NAME                                                                        |                           COLORS                           |
