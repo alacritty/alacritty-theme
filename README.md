@@ -163,6 +163,8 @@ configuration file.
 |                                     **_vesper_**<br>[source](https://github.com/raunofreiberg/vesper)                                             |                ![vesper](images/vesper.png)                |
 |                                        **_wombat_**<br>[source](https://github.com/djoyner/iTerm2-wombat)                                         |                ![wombat](images/wombat.png)                |
 |                                                                    **_xterm_**                                                                    |                 ![xterm](images/xterm.png)                 |
+|                                                                    **_yorumi abyss_**<br>[source](https://github.com/yorumicolors/yorumi/tree/main/get/apps/terms/alacritty/)                                                                    |                 ![xterm](images/yorumi_abyss.png)                 |
+|                                                                    **_yorumi mist_**<br>[source](https://github.com/yorumicolors/yorumi/tree/main/get/apps/terms/alacritty/)                                                                    |                 ![xterm](images/yorumi_mist.png)                 |
 |                                          **_zenburn_**<br>[source](https://github.com/jnurmine/Zenburn)                                           |               ![zenburn](images/zenburn.png)               |
 
 ## Contributing

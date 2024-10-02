@@ -1,0 +1,48 @@
+# yorumi mist
+
+[colors]
+cursor = {  text = "#BDBFCB", cursor = "#060914" }
+vi_mode_cursor = {  text = "#BDBFCB", cursor = "#141712" }
+line_indicator = { background = "#BDBFCB", foreground = "#121520" }
+footer_bar = { background = "#BDBFCB", foreground = "#121520" }
+selection = { text = "#BDBFCB", background = "#343742" }
+
+[colors.primary]
+background = "#BDBFCB"
+foreground = "#060914"
+dim_foreground = "#121520"
+bright_foreground = "#0E0D17"
+
+[colors.search]
+matches = { foreground = "#BDBFCB", background = "#6B5905" }
+focused_match = { foreground = "#060914", background = "#D6B476" }
+
+[colors.normal]
+black = "#060914"
+red = "#4E0E0E"
+green = "#1C4642"
+blue = "#0D2C4E"
+yellow = "#605006"
+magenta = "#4C1036"
+cyan = "#104351"
+white = "#BDBFCB"
+
+[colors.bright]
+black = "#1D202B"
+red = "#913B3B"
+green = "#697F4D"
+blue = "#42608A"
+yellow = "#9D672F"
+magenta = "#8D3F5A"
+cyan = "#478584"
+white = "#BDBFCB"
+
+[colors.dim]
+black = "#0E0D17"
+red = "#F47571"
+green = "#A9D07C"
+blue = "#798DDC"
+yellow = "#E1C084"
+magenta = "#E184AF"
+cyan = "#85E0CB"
+white = "#D7E1B7"
