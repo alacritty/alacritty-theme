@@ -138,6 +138,8 @@ configuration file.
 |**_pastel_dark_**<br>[source](https://github.com/gnachman/iTerm2/blob/01c280152acebfe123f56e0215a3c178297a0edc/plists/ColorPresets.plist#L3715-L3924)|          ![pastel_dark](images/pastel_dark.png)           |
 |                                   **_pencil_dark_**<br>[source](https://github.com/mattly/iterm-colors-pencil)                                    |           ![pencil_dark](images/pencil_dark.png)           |
 |                                   **_pencil_light_**<br>[source](https://github.com/mattly/iterm-colors-pencil)                                   |          ![pencil_light](images/pencil_light.png)          |
+|                                   **_posterpole_**<br>[source](https://github.com/ilof2/posterpole.nvim)                                          |          ![posterpole](images/posterpole.png)              |
+|                                   **_posterpole_gray_**<br>[source](https://github.com/ilof2/posterpole.nvim)                                     |          ![posterpole_gray](images/posterpole_gray.png)         |
 |                                                                   **_rainbow_**                                                                   |               ![rainbow](images/rainbow.png)               |
 |                                  **_remedy_dark_**<br>[source](https://github.com/robertrossmann/vscode-remedy)                                   |           ![remedy_dark](images/remedy_dark.png)           |
 |                                        **_rose-pine_**<br>[source](https://github.com/rose-pine/alacritty)                                        |             ![rose-pine](images/rose-pine.png)             |
