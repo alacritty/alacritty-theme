@@ -43,7 +43,6 @@ configuration file.
 |                                      **_argonaut_**<br>[source](https://github.com/pwaleczek/Argonaut-theme)                                      |        ![base16_default_dark](images/argonaut.png)         |
 |             **_ashes_dark_**<br>[source](https://marketplace.visualstudio.com/items?itemName=AndrsDC.base16-themes)                               |        ![base16_ashes_dark](images/ashes_dark.png)         |
 |             **_ashes_light_**<br>[source](https://marketplace.visualstudio.com/items?itemName=AndrsDC.base16-themes)                              |        ![base16_ashes_light](images/ashes_light.png)       |
-|                         **_atom_one_dark_**<br>[source](https://gist.github.com/r-darwish/f8bb21a6c89a02c4bef76cc38bddad39)                       |        ![atom_one_dark](images/atom_one_dark.png)          |
 |                  **_atom_one_light_**<br>[source](https://github.com/dexpota/kitty-themes/blob/master/themes/AtomOneLight.conf)                   |        ![atom_one_light](images/atom_one_light.png)        |
 |                  **_aura_**<br>[source](https://github.com/daltonmenezes/aura-theme)                   |        ![aura](images/aura.png)        |
 |                                        **_ayu_dark_**<br>[source](https://github.com/ayu-theme/ayu-colors)                                        |              ![ayu_dark](images/ayu_dark.png)              |
