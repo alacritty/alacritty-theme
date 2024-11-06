@@ -1,0 +1,47 @@
+# Colors (DOS)
+
+[colors.primary]
+background = '#000000'
+foreground = '#c0c0c0'
+
+[colors.cursor]
+text   = '#000000'
+cursor = '#ffffff'
+
+[colors.normal]
+black   = '#000000'
+red     = '#c00000'
+green   = '#00c000'
+yellow  = '#c0c000'
+blue    = '#0000c0'
+magenta = '#c000c0'
+cyan    = '#00c0c0'
+white   = '#c0c0c0'
+
+[colors.bright]
+black   = '#808080'
+red     = '#ff0000'
+green   = '#00ff00'
+yellow  = '#ffff00'
+blue    = '#0000ff'
+magenta = '#ff00ff'
+cyan    = '#00ffff'
+white   = '#ffffff'
+
+[colors.dim]
+black   = '#000000'
+red     = '#800000'
+green   = '#008000'
+yellow  = '#808000'
+blue    = '#000080'
+magenta = '#800080'
+cyan    = '#008080'
+white   = '#808080'
+
+[colors.hints]
+start = { foreground = "#202020", background = "#ffc000" }
+end = { foreground = "#ffc000", background = "#202020" }
+
+[colors.search]
+matches = { foreground = "#ffc000", background = "#004080" }
+focused_match = { foreground = "#004080", background = "#ffc000" }

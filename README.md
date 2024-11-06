@@ -69,6 +69,7 @@ configuration file.
 | **_dayfox_**<br>[source](https://github.com/EdenEast/nightfox.nvim/blob/7557f26defd093c4e9bc17f28b08403f706f5a44/extra/dayfox/alacritty.toml)   | ![dayfox](images/dayfox.png) |
 |                                                                  **_deep_space_**                                                                 |             ![depp_space](images/deep_space.png)           |
 |                                     **_doom_one_**<br>[source](https://github.com/hlissner/emacs-doom-themes)                                     |              ![doom_one](images/doom_one.png)              |
+|                                                                     **_dos_**                                                                     |                   ![dos](images/dos.png)                   |
 |                                                **_dracula_**<br>[source](https://draculatheme.com)                                                |               ![dracula](images/dracula.png)               |
 |                                                **_dracula_plus_**<br>[source](https://draculatheme.com)                                           |               ![dracula_plus](images/dracula_plus.png)     |
 | **_duskfox_**<br>[source](https://github.com/EdenEast/nightfox.nvim/blob/7557f26defd093c4e9bc17f28b08403f706f5a44/extra/duskfox/alacritty.toml)   | ![duskfox](images/duskfox.png) |
