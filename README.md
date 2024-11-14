@@ -21,7 +21,8 @@ Add an import to your `alacritty.toml` (Replace `{theme}` with your desired
 colorscheme):
 
 ```toml
-general.import = [
+[general]
+import = [
     "~/.config/alacritty/themes/themes/{theme}.toml"
 ]
 ```
