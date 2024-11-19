@@ -181,7 +181,9 @@ repository.
 
 [alacritty-theme]: https://github.com/alacritty/alacritty-theme
 
-To add a new theme, just create a Pull Request with the following changes:
+To add a new theme, please create a Pull Request. Note that submissions by theme
+authors are not accepted, to ensure there's at least some community interest.
+The following changes must be made for a new theme:
 
  - Add your theme to the `themes` directory with the `{theme}.toml` file format
  - Create a screenshot of your theme using the [`print_colors.sh`](./print_colors.sh) script
