@@ -1,0 +1,34 @@
+# Colors (Frozen Embers)
+# author theamallalgi
+
+[colors.primary]
+background = "#181818"
+foreground = "#26f96b"
+
+[colors.cursor]
+cursor = "#26f96b"
+text = "#181818"
+
+[colors.selection]
+background = "#242424"
+text = "#26f96b"
+
+[colors.normal]
+black = "#181818"
+blue = "#26b7f9"
+cyan = "#26f9eb"
+green = "#26f96b"
+magenta = "#b267e6"
+red = "#f92672"
+white = "#FFFFFD"
+yellow = "#f9a826"
+
+[colors.bright]
+black = "#404040"
+blue = "#26b7f9"
+cyan = "#26f9eb"
+green = "#26f96b"
+magenta = "#b267e6"
+red = "#f92672"
+white = "#FFFFFD"
+yellow = "#f9a826"
