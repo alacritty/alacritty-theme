@@ -1,10 +1,4 @@
-# ~/.config/alacritty/alacritty.toml
-
-[window]
-# Window title
-title = "Alacritty"
-dynamic_title = true
-decorations = "full" # Options: full, none, transparent
+# From: https://github.com/yorickpeterse/Autumn.vim/blob/master/colors/autumn.vim
 
 [colors]
 # Colors for the terminal
