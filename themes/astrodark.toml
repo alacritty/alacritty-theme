@@ -1,0 +1,27 @@
+# AstroTheme Alacritty Colors
+# Default colors
+[colors.primary]
+background = '#1A1D23'
+foreground = '#9B9FA9'
+
+# Normal colors
+[colors.normal]
+black = '#111317'
+red = '#FF838B'
+green = '#87C05F'
+yellow = '#DFAB25'
+blue = '#5EB7FF'
+magenta = '#DD97F1'
+cyan = '#4AC2B8'
+white = '#9B9FA9'
+
+# Bright colors
+[colors.bright]
+black = '#34363A'
+red = '#FFA6AE'
+green = '#AAE382'
+yellow = '#FFCE48'
+blue = '#81DAFF'
+magenta = '#FFBAFF'
+cyan = '#6DE5DB'
+white = '#D0D3DE'
