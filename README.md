@@ -45,6 +45,7 @@ configuration file.
 |             **_ashes_dark_**<br>[source](https://marketplace.visualstudio.com/items?itemName=AndrsDC.base16-themes)                               |        ![base16_ashes_dark](images/ashes_dark.png)         |
 |             **_ashes_light_**<br>[source](https://marketplace.visualstudio.com/items?itemName=AndrsDC.base16-themes)                              |        ![base16_ashes_light](images/ashes_light.png)       |
 |                  **_aura_**<br>[source](https://github.com/daltonmenezes/aura-theme)                   |        ![aura](images/aura.png)        |
+|                  **_autumn_**<br>[source](https://github.com/YorickPeterse/Autumn.vim)                                                            |              ![autumn](images/autumn.png)                  |
 |                                        **_ayu_dark_**<br>[source](https://github.com/ayu-theme/ayu-colors)                                        |              ![ayu_dark](images/ayu_dark.png)              |
 |                                       **_ayu_light_**<br>[source](https://github.com/ayu-theme/ayu-colors)                                        |             ![ayu_light](images/ayu_light.png)             |
 |                                       **_ayu_mirage_**<br>[source](https://github.com/ayu-theme/ayu-colors)                                        |             ![ayu_mirage](images/ayu_mirage.png)             |
