@@ -105,6 +105,8 @@ configuration file.
 |                                                                    **_iterm_**                                                                    |                 ![iterm](images/iterm.png)                 |
 |                                 **_kanagawa_dragon_**<br>[source](https://github.com/rebelot/kanagawa.nvim)                                       |          ![kanagawa_dragon](images/kanagawa_dragon.png)    |
 |                                  **_kanagawa_wave_**<br>[source](https://github.com/rebelot/kanagawa.nvim)                                        |          ![kanagawa_wave](images/kanagawa_wave.png)        |
+|                                  **_kimbie_dark_**<br>[source](https://github.com/idleberg/Kimbie.tmTheme)                                        |          ![kimbie_dark](images/kimbie_dark.png)            |
+|                                  **_kimbie_light_**<br>[source](https://github.com/idleberg/Kimbie.tmTheme)                                        |          ![kimbie_dark](images/kimbie_light.png)          |
 |                                                                **_konsole_linux_**                                                                |             ![iterm](images/konsole_linux.png)             |
 |                                                                **_low_contrast_**                                                                 |             ![iterm](images/low_contrast.png)              |
 |                  **_Mariana_**<br>[source](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/alacritty/Mariana.yml)                   |                ![iterm](images/mariana.png)                |
