@@ -1,0 +1,33 @@
+# Color theme ported from Ghostty NvimLight theme
+
+[colors.primary]
+background = '#e0e2ea'
+foreground = '#14161b'
+
+[colors.cursor]
+text = '#e0e2ea'
+cursor = '#9b9ea4'
+
+[colors.selection]
+background = '#9b9ea4'
+foreground = '#14161b'
+
+[colors.normal]
+black   = '#07080d'
+red     = '#590008'
+green   = '#005523'
+yellow  = '#6b5300'
+blue    = '#004c73'
+magenta = '#470045'
+cyan    = '#007373'
+white   = '#eef1f8'
+
+[colors.bright]
+black   = '#4f5258'
+red     = '#590008'
+green   = '#005523'
+yellow  = '#6b5300'
+blue    = '#004c73'
+magenta = '#470045'
+cyan    = '#007373'
+white   = '#eef1f8'
