@@ -1,0 +1,28 @@
+# Colors (acme)
+
+# Default colors
+[colors.primary]
+background =  '#ffffea'
+foreground =  '#000000'
+
+# Normal colors
+[colors.normal]
+black   = '#101010'
+red     = '#af5f00'
+green   = '#cccc7c'
+yellow  = '#ffff5f'
+blue    = '#aeeeee'
+magenta = '#505050'
+cyan    = '#afffd7'
+white   = '#fcfcce'
+
+# Bright colors
+[colors.bright]
+black   = '#101010'
+red     = '#af5f00'
+green   = '#cccc7c'
+yellow  = '#ffff5f'
+blue    = '#aeeeee'
+magenta = '#505050'
+cyan    = '#afffd7'
+white   = '#fcfcce'
