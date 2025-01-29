@@ -53,6 +53,8 @@ configuration file.
 |                                   **_baitong_**<br>[source](https://github.com/cypj/baitong-theme)                                                |         ![baitong](images/baitong.png)                     |
 |                                   **_base16_default_dark_**<br>[source](https://github.com/chriskempson/base16)                                   |   ![base16_default_dark](images/base16_default_dark.png)   |
 |                                         **_blood_moon_**<br>[source](https://github.com/dguo/blood-moon)                                          |            ![blood_moon](images/blood_moon.png)            |
+|                                         **_blue_moon_**<br>[source](https://github.com/kyazdani42/blue-moon)                                          |            ![blue_moon](images/blue_moon.png)            |
+|                                         **_blue_moon_light_**<br>[source](https://github.com/kyazdani42/blue-moon)                                          |          ![blue_moon_light](images/blue_moon_light.png)            |
 |                                                                   **_bluish_**                                                                    |                ![bluish](images/bluish.png)                |
 |                                              **_breeze_**<br>[source](https://github.com/KDE/breeze)                                              |                ![breeze](images/breeze.png)                |
 |              **_campbell_**<br>[source](https://blogs.msdn.microsoft.com/commandline/2017/08/02/updating-the-windows-console-colors)              |              ![campbell](images/campbell.png)              |
