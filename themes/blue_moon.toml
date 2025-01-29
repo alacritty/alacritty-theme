@@ -1,0 +1,28 @@
+# Colors (blue_moon)
+
+# Default colors
+[colors.primary]
+background =  '#1b1e2b'
+foreground =  '#676e96'
+
+# Normal colors
+[colors.normal]
+black	= '#353b52'
+red	= '#d06178'    
+green	= '#b4c4b4'
+yellow	= '#cfcfbf'
+blue	= '#959dcb'
+magenta	= '#b9a3eb'
+cyan	= '#89bbdd'
+white	= '#ffffff'
+
+# Bright colors
+[colors.bright]
+black	= '#8796b0'
+red	= '#e61f44'    
+green	= '#acfab4'
+yellow	= '#dfdf9f'
+blue	= '#b8bcf3'
+magenta	= '#b9a3eb'
+cyan	= '#89ddff'
+white	= '#ffffff'
