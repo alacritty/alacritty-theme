@@ -18,10 +18,19 @@ git clone https://github.com/alacritty/alacritty-theme ~/.config/alacritty/theme
 ```
 
 Add an import to your `alacritty.toml` (Replace `{theme}` with your desired
-colorscheme):
+colorscheme).
+
+For alacritty versions >= 0.14.0 use:
 
 ```toml
 [general]
+import = [
+    "~/.config/alacritty/themes/themes/{theme}.toml"
+]
+```
+
+For alacritty versions < 0.14.0 use:
+```toml
 import = [
     "~/.config/alacritty/themes/themes/{theme}.toml"
 ]
