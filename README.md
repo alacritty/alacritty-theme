@@ -160,6 +160,7 @@ configuration file.
 |                                      **_solarized_dark_**<br>[source](http://ethanschoonover.com/solarized)                                       |        ![solarized_dark](images/solarized_dark.png)        |
 |                                      **_solarized_light_**<br>[source](http://ethanschoonover.com/solarized)                                      |       ![solarized_light](images/solarized_light.png)       |
 |                               **_solarized_osaka_**<br>[source](https://github.com/craftzdog/solarized-osaka.nvim)                                |     ![solarized_osaka](images/solarized_osaka.png)         |
+|                                           **_sonokai_**<br>[source](https://github.com/sainnhe/sonokai)                                           |               ![sonokai](images/sonokai.png)               |
 |                                   **_spacegray_**<br>[source](https://github.com/SublimeText/Spacegray)                                           |            ![spacegray](images/spacegray.png)
 |                                   **_synthwave_84_**<br>[source](https://github.com/robb0wen/synthwave-vscode)                                    |        ![synthwave_84](images/synthwave_84.png)            |
 |                                    **_taerminal_**<br>[source](https://github.com/cozywigwam/iterm-taerminal)                                     |             ![taerminal](images/taerminal.png)             |
