@@ -1,8 +1,3 @@
-# This theme is derived from the color scheme in
-# https://github.com/microsoft/vscode/blob/main/src/vs/workbench/contrib/terminal/common/terminalColorRegistry.ts
-# Original code is licensed under the MIT License.
-# Copyright (c) Microsoft Corporation.
-
 [colors.primary]
 foreground = "#cccccc"
 background = "#1e1e1e"
