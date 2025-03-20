@@ -37,7 +37,7 @@ configuration file.
 
 |                                                                       NAME                                                                        |                           COLORS                           |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------:|
-|                                   **_acme_**<br>[source](https://github.com/plan9-for-vimspace/acme-colors)                                       |             ![acme](images/acme.png)  
+|                                   **_acme_**<br>[source](https://github.com/plan9-for-vimspace/acme-colors)                                       |             ![acme](images/acme.png)
 |                                   **_afterglow_**<br>[source](https://github.com/YabataDesign/afterglow-theme)                                    |        ![base16_default_dark](images/afterglow.png)        |
 |                                   **_alabaster_**<br>[source](https://github.com/tonsky/vscode-theme-alabaster)                                   |             ![alabaster](images/alabaster.png)             |
 |                                   **_alabaster_dark_**<br>[source](https://github.com/gargakshit/vscode-theme-alabaster-dark)                     |        ![alabaster_dark](images/alabaster_dark.png)        |
@@ -178,6 +178,7 @@ configuration file.
 |                              **_tomorrow_night_bright_**<br>[source](https://github.com/ChrisKempson/Tomorrow-Theme)                              | ![tomorrow_night_bright](images/tomorrow_night_bright.png) |
 |                                     **_ubuntu_**<br>[source](https://design.ubuntu.com/brand/colour-palette/)                                     |                ![ubuntu](images/ubuntu.png)                |
 |                                     **_vesper_**<br>[source](https://github.com/raunofreiberg/vesper)                                             |                ![vesper](images/vesper.png)                |
+|     **_vscode_**<br>[source](https://github.com/microsoft/vscode/blob/main/src/vs/workbench/contrib/terminal/common/terminalColorRegistry.ts)     |                ![vscode](images/vscode.png)                |
 |                                        **_wombat_**<br>[source](https://github.com/djoyner/iTerm2-wombat)                                         |                ![wombat](images/wombat.png)                |
 |                                                                    **_xterm_**                                                                    |                 ![xterm](images/xterm.png)                 |
 |                                          **_zenburn_**<br>[source](https://github.com/jnurmine/Zenburn)                                           |               ![zenburn](images/zenburn.png)               |
