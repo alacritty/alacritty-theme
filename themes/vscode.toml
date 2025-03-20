@@ -1,0 +1,28 @@
+# This theme is derived from the color scheme in
+# https://github.com/microsoft/vscode/blob/main/src/vs/workbench/contrib/terminal/common/terminalColorRegistry.ts
+# Original code is licensed under the MIT License.
+# Copyright (c) Microsoft Corporation.
+
+[colors.primary]
+foreground = "#cccccc"
+background = "#1e1e1e"
+
+[colors.normal]
+black = "#1e1e1e"
+red = "#f14c4c"
+green = "#23d18b"
+yellow = "#e5e510"
+blue = "#3b8eea"
+magenta = "#d670d6"
+cyan = "#29b8db"
+white = "#cccccc"
+
+[colors.bright]
+black = "#666666"
+red = "#f14c4c"
+green = "#23d18b"
+yellow = "#f5f543"
+blue = "#3b8eea"
+magenta = "#d670d6"
+cyan = "#29b8db"
+white = "#ffffff"
