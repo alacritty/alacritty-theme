@@ -1,0 +1,30 @@
+# Rigel theme
+# Source: https://github.com/Rigellute/rigel/blob/master/alacritty.toml
+
+[colors.primary]
+background = '#002635'
+foreground = '#e6e6dc'
+
+[colors.normal]
+black = '#00384d'
+red = '#c43061'
+green = '#7fc06e'
+yellow = '#f08e48'
+blue = '#1c8db2'
+magenta = '#c694ff'
+cyan = '#00cccc'
+white = '#77929e'
+
+[colors.bright]
+black = '#517f8d'
+red = '#ff5a67'
+green = '#9cf087'
+yellow = '#ffcc1b'
+blue = '#7eb2dd'
+magenta = '#fb94ff'
+cyan = '#00ffff'
+white  = '#b7cff9'
+
+[colors.cursor]
+text = '#002635'
+cursor = '#ffcc1b'

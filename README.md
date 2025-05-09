@@ -152,6 +152,7 @@ configuration file.
 |                                   **_pencil_light_**<br>[source](https://github.com/mattly/iterm-colors-pencil)                                   |          ![pencil_light](images/pencil_light.png)          |
 |                                                                   **_rainbow_**                                                                   |               ![rainbow](images/rainbow.png)               |
 |                                  **_remedy_dark_**<br>[source](https://github.com/robertrossmann/vscode-remedy)                                   |           ![remedy_dark](images/remedy_dark.png)           |
+|                                           **_rigel_**<br>[source](https://github.com/Rigellute/rigel)                                             |                 ![rigel](images/rigel.png)                 |
 |                                        **_rose_pine_**<br>[source](https://github.com/rose-pine/alacritty)                                        |             ![rose_pine](images/rose_pine.png)             |
 |                                        **_rose_pine_dawn_**<br>[source](https://github.com/rose-pine/alacritty)                                        |             ![rose_pine_dawn](images/rose_pine_dawn.png)             |
 |                                        **_rose_pine_moon_**<br>[source](https://github.com/rose-pine/alacritty)                                        |             ![rose_pine_moon](images/rose_pine_moon.png)             |
