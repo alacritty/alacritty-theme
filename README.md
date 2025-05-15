@@ -159,6 +159,7 @@ configuration file.
 |         **seashells**<br>[source](https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/SeaShells.itermcolors)          |             ![seashells](images/seashells.png)             |
 |         **selenized_dark**<br>[source](https://github.com/jan-warchol/selenized/blob/master/terminals/alacritty/selenized-dark.yml)               |         ![selenized_dark](images/selenized_dark.png)       |
 |         **selenized_light**<br>[source](https://github.com/jan-warchol/selenized/blob/master/terminals/alacritty/selenized-light.yml)             |         ![selenized_light](images/selenized_light.png)     |
+|         **seoul256-light**<br>[source](https://github.com/junegunn/seoul256.vim)                                                                  |         ![seoul256-light](images/seoul256-light.png)        |
 | **smoooooth**<br>[source](https://github.com/gnachman/iTerm2/blob/33945e63ad48ed80d6cc1adf7cbeb663217652d2/plists/ColorPresets.plist#L4345-L4685) |             ![smoooooth](images/smoooooth.png)             |
 |                                      **_snazzy_**<br>[source](https://github.com/sindresorhus/hyper-snazzy)                                       |                ![snazzy](images/snazzy.png)                |
 |                                      **_solarized_dark_**<br>[source](http://ethanschoonover.com/solarized)                                       |        ![solarized_dark](images/solarized_dark.png)        |

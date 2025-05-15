@@ -1,0 +1,71 @@
+# Seoul256 Light Alacritty Colors
+## name: seoul256-light
+## inspired by: https://github.com/junegunn/seoul256.vim
+
+[colors.primary]
+background = "#dadada"  # light_bg (253)
+foreground = "#4e4e4e"  # light_fg (239)
+dim_foreground = "#616161"  # slightly darker than foreground
+bright_foreground = "#3a3a3a"  # slightly brighter than foreground
+
+[colors.cursor]
+text = "#dadada"  # background
+cursor = "#4e4e4e"  # foreground
+
+[colors.vi_mode_cursor]
+text = "#dadada"  # background
+cursor = "#007299"  # blue (24)
+
+[colors.search.matches]
+foreground = "#ffffff"  # white (255)
+background = "#007299"  # blue (74)
+
+[colors.search.focused_match]
+foreground = "#ffffff"  # white (255)
+background = "#005f87"  # darker blue
+
+[colors.footer_bar]
+foreground = "#4e4e4e"  # foreground
+background = "#bcbcbc"  # light grey (250)
+
+[colors.hints.start]
+foreground = "#4e4e4e"  # foreground
+background = "#d7afaf"  # light pink (181)
+
+[colors.hints.end]
+foreground = "#4e4e4e"  # foreground
+background = "#d0d0d0"  # slightly darker than background (252)
+
+[colors.selection]
+text = "#4e4e4e"  # foreground
+background = "#bcdede"  # light cyan (152)
+
+[colors.normal]
+black = "#4e4e4e"    # light_fg (239)
+red = "#af005f"      # dark red (125)
+green = "#5f875f"    # green (65)
+yellow = "#af5f00"   # orange/yellow (130)
+blue = "#007173"     # blue (23)
+magenta = "#870087"  # magenta (90)
+cyan = "#008787"     # cyan (30)
+white = "#e4e4e4"    # very light grey (254)
+
+[colors.bright]
+black = "#626262"    # grey (241)
+red = "#d70087"      # bright red (162)
+green = "#87af87"    # bright green (108)
+yellow = "#dfbc72"   # bright yellow (179)
+blue = "#5fafd7"     # bright blue (74)
+magenta = "#af5fff"  # bright magenta (135)
+cyan = "#00afaf"     # bright cyan (37)
+white = "#ffffff"    # white (231)
+
+[colors.dim]
+black = "#3a3a3a"    # darker grey (237)
+red = "#9B1D72"      # dim red (89)
+green = "#719872"    # dim green (65)
+yellow = "#BE9873"   # dim yellow (137)
+blue = "#719899"     # dim blue (66)
+magenta = "#9A7599"  # dim magenta (96)
+cyan = "#6FBCBD"     # dim cyan (73)
+white = "#d0d0d0"    # dim white (252)
