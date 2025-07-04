@@ -76,6 +76,7 @@ configuration file.
 |                                                **_dracula_**<br>[source](https://draculatheme.com)                                                |               ![dracula](images/dracula.png)               |
 |                                                **_dracula_plus_**<br>[source](https://draculatheme.com)                                           |               ![dracula_plus](images/dracula_plus.png)     |
 | **_duskfox_**<br>[source](https://github.com/EdenEast/nightfox.nvim/blob/7557f26defd093c4e9bc17f28b08403f706f5a44/extra/duskfox/alacritty.toml)   | ![duskfox](images/duskfox.png) |
+|                                 **_emacs_default_**<br>[source](https://github.com/emacs-mirror/emacs/blob/master/lisp/term/tty-colors.el)        |![emacs_default](images/emacs_default.png)    |
 |                                                **_enfocado_dark_**<br>[source](https://github.com/wuelnerdotexe/vim-enfocado.git)                 |![enfocado_dark](images/enfocado_dark.png)    |
 |                                                **_enfocado_light_**<br>[source](https://github.com/wuelnerdotexe/vim-enfocado.git)                |![enfocado_light](images/enfocado_light.png)  |
 |                                     **_everforest_dark_**<br>[source](https://github.com/sainnhe/everforest)                                      |       ![everforest_dark](images/everforest_dark.png)       |
