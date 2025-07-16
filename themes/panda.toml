@@ -1,30 +1,30 @@
 # Default colors
 [colors.primary]
-background = '0x292A2B'
-foreground = '0xeaeaea'
+background = '#292A2B'
+foreground = '#eaeaea'
 
 [colors.cursor]
-text = '0x000000'
-cursor = '0xffffff'
+text = '#000000'
+cursor = '#ffffff'
 
 # Normal colors
 [colors.normal]
-black = '0x3d3e40'
-red = '0xFF2C6D'
-green = '0x19f9d8'
-yellow = '0xFFB86C'
-blue = '0x45A9F9'
-magenta = '0xFF75B5'
-cyan = '0x19f9d8'
-white = '0xf3f3f3'
+black = '#3d3e40'
+red = '#FF2C6D'
+green = '#19f9d8'
+yellow = '#FFB86C'
+blue = '#45A9F9'
+magenta = '#FF75B5'
+cyan = '#19f9d8'
+white = '#f3f3f3'
 
 # Bright colors
 [colors.bright]
-black = '0x373b41'
-red = '0xff3334'
-green = '0x41fadf'
-yellow = '0xffcc95'
-blue = '0x6FC1FF'
-magenta = '0xff9ecb'
-cyan = '0x41fadf'
-white = '0xf8f8f8'
+black = '#373b41'
+red = '#ff3334'
+green = '#41fadf'
+yellow = '#ffcc95'
+blue = '#6FC1FF'
+magenta = '#ff9ecb'
+cyan = '#41fadf'
+white = '#f8f8f8'
