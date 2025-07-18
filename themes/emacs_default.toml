@@ -1,0 +1,27 @@
+# author: Jim Gettys & co
+# converted by: tazjin
+# emacs default theme colours
+
+[colors.primary]
+background = "#FFFFFF"
+foreground = "#000000"
+
+[colors.normal]
+black   = "#000000"
+red     = "#C00000"
+green   = "#20C000"
+yellow  = "#C0C000"
+blue    = "#0000E0"
+magenta = "#C000C0"
+cyan    = "#00C0C0"
+white   = "#E0E0E0"
+
+[colors.bright]
+black   = "#404040"
+red     = "#E02000"
+green   = "#20E000"
+yellow  = "#E0E000"
+blue    = "#0000E0"
+magenta = "#E000E0"
+cyan    = "#00E0E0"
+white   = "#E0E0E0"
