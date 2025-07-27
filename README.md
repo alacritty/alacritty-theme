@@ -65,6 +65,7 @@ configuration file.
 |                                                                  **_chicago95_**                                                                  |               ![chicago95](images/chicago95.png)           |
 |                                              **_citylights_**<br>[source](https://citylights.xyz/)                                               |           ![citylights](images/citylights.png)            |
 |                                 **_Cobalt2_**<br>[source](https://github.com/wesbos/cobalt2/tree/master/Cobalt2)                                  |               ![Cobalt2](images/Cobalt2.png)               |
+|                                 **_cool_cyber_**<br>[source](https://github.com/Almightyoo/alacritty)                                             |               ![cool_cyber](images/cool_cyber.png)         |
 |                                 **_cyber_punk_neon_**<br>[source](https://github.com/Roboron3042/Cyberpunk-Neon)                                  |       ![cyber_punk_neon](images/cyber_punk_neon.png)       |
 |         **_dark_pastels_**<br>[source](https://invent.kde.org/utilities/konsole/-/blob/master/data/color-schemes/DarkPastels.colorscheme)         |          ![dark_pastels](images/dark_pastels.png)          |
 |         **_dark_plus_**<br>[source](https://github.com/microsoft/vscode/blob/12f9169c935bd3fd2730777130330c3bb19e0005/extensions/theme-defaults/themes/dark_plus.json)         |          ![dark_plus](images/dark_plus.png)          |
