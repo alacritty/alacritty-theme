@@ -7,6 +7,14 @@ background = '#fbf1c7'
 # soft contrast background = = '#f2e5bc'
 foreground = '#3c3836'
 
+[colors.cursor]
+text   = '#fbf1c7'
+cursor = '#928374'
+
+[colors.vi_mode_cursor]
+text   = '#fbf1c7'
+cursor = '#928374'
+
 # Normal colors
 [colors.normal]
 black   = '#fbf1c7'
