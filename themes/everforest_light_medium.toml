@@ -1,11 +1,9 @@
 # Colors (Everforest Light Medium)
 
-# Default colors
 [colors.primary]
 background = '#fdf6e3'
 foreground = '#5c6a72'
 
-# Normal colors
 [colors.normal]
 black   = '#5c6a72'
 red     = '#f85552'
@@ -16,7 +14,6 @@ magenta = '#df69ba'
 cyan    = '#35a77c'
 white   = '#e0dcc7'
 
-# Bright Colors
 [colors.bright]
 black   = '#5c6a72'
 red     = '#f85552'
@@ -26,3 +23,15 @@ blue    = '#3a94c5'
 magenta = '#df69ba'
 cyan    = '#35a77c'
 white   = '#e0dcc7'
+
+[colors.selection]
+background = '#eaedc8'
+text       = '#5c6a72'
+
+[colors.search.matches]
+background = '#8da101'
+foreground = '#fdf6e3'
+
+[colors.search.focused_match]
+background = '#f85552'
+foreground = '#fdf6e3'
