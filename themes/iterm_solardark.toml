@@ -1,0 +1,32 @@
+# Colors (iTerm 2 SolarDark theme)
+
+# Default colors
+[colors.primary]
+background = '#002833'
+foreground = '#a5abb6'
+
+[colors.cursor]
+text = "#003440"
+cursor = "#f86100"
+
+# Normal colors
+[colors.normal]
+black   = '#003440'
+red     = '#dc312e'
+green   = '#7cc67f'
+yellow  = '#b58900'
+blue    = '#268ad2'
+magenta = '#d33582'
+cyan    = '#2aa197'
+white   = '#eee8d5'
+
+# Bright colors
+[colors.bright]
+black   = '#00779a'
+red     = '#f9314b'
+green   = '#5bee96'
+yellow  = '#c08f34'
+blue    = '#109fd2'
+magenta = '#e9679f'
+cyan    = '#00bdae'
+white   = '#fdf6e3'
