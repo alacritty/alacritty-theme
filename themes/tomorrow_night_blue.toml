@@ -1,0 +1,29 @@
+# Colors (Tomorrow Night Blue)
+
+[colors.primary]
+background = '#002451'
+foreground = '#ffffff'
+
+[colors.cursor]
+cursor  = '#ffffff'
+text    = '#003f8e'
+
+[colors.normal]
+black   = '#002451'
+red     = '#ff9da4'
+green   = '#d1f1a9'
+yellow  = '#ffc58f'
+blue    = '#bbdaff'
+magenta = '#ebbbff'
+cyan    = '#99ffff'
+white   = '#7285b7'
+
+[colors.bright]
+black   = '#7285b7'
+red     = '#ff9da4'
+green   = '#d1f1a9'
+yellow  = '#ffc58f'
+blue    = '#bbdaff'
+magenta = '#ebbbff'
+cyan    = '#99ffff'
+white   = '#7285b7'
