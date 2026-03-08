@@ -1,7 +1,7 @@
 # Colors (Tomorrow Night Blue)
 
 [colors.primary]
-background = '#003263'
+background = '#002451'
 foreground = '#ffffff'
 
 [colors.cursor]
@@ -9,7 +9,7 @@ cursor  = '#ffffff'
 text    = '#00539f'
 
 [colors.normal]
-black   = '#004680'
+black   = '#003263'
 red     = '#ffafb2'
 green   = '#d8f1b7'
 yellow  = '#ffce9f'
@@ -19,7 +19,7 @@ cyan    = '#a6feff'
 white   = '#dedede'
 
 [colors.bright]
-black   = '#00539f'
+black   = '#004680'
 red     = '#ffafb2'
 green   = '#d8f1b7'
 yellow  = '#ffefba'
