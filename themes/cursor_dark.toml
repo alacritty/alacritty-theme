@@ -1,0 +1,28 @@
+# Colors (Cursor Dark)
+
+# Default colors
+[colors.primary]
+background = '#141414'
+foreground = '#cccccc'
+
+# Normal colors
+[colors.normal]
+black   = '#2a2a2a'
+red     = '#bf616a'
+green   = '#a3be8c'
+yellow  = '#ebcb8b'
+blue    = '#81a1c1'
+magenta = '#b48ead'
+cyan    = '#88c0d0'
+white   = '#ffffff'
+
+# Bright colors
+[colors.bright]
+black   = '#505050'
+red     = '#bf616a'
+green   = '#a3be8c'
+yellow  = '#ebcb8b'
+blue    = '#81a1c1'
+magenta = '#b48ead'
+cyan    = '#88c0d0'
+white   = '#ffffff'

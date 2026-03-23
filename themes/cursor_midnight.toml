@@ -1,0 +1,28 @@
+# Colors (Cursor Midnight)
+
+# Default colors
+[colors.primary]
+background = '#191c22'
+foreground = '#d8dee9'
+
+# Normal colors
+[colors.normal]
+black   = '#272c36'
+red     = '#bf616a'
+green   = '#a3be8c'
+yellow  = '#ebcb8b'
+blue    = '#81a1c1'
+magenta = '#7d7c9b'
+cyan    = '#88c0d0'
+white   = '#e5e9f0'
+
+# Bright colors
+[colors.bright]
+black   = '#4c566a'
+red     = '#bf616a'
+green   = '#a3be8c'
+yellow  = '#ebcb8b'
+blue    = '#81a1c1'
+magenta = '#b48ead'
+cyan    = '#8fbcbb'
+white   = '#eceff4'
