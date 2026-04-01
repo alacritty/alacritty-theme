@@ -1,0 +1,32 @@
+#tr4shy_colors
+#by tr4shyyy
+#https://github.com/tr4shyyy/tr4shy_colors
+
+
+#Default colors
+[colors.primary]
+background = '#181825'
+foreground = '#F9F9F9'
+
+# Normal colors
+[colors.normal]
+black   = '#181825'
+red     = '#FA5AA4'
+green   = '#2BE491'
+yellow  = '#FA946E'
+blue    = '#63C5EA'
+magenta = '#CF8EF4'
+cyan    = '#89CCF7'
+white   = '#F9F9F9'
+
+# Bright colors
+[colors.bright]
+black   = '#5C6780'
+red     = '#FA5AA4'
+green   = '#2BE491'
+yellow  = '#FA946E'
+blue    = '#63C5EA'
+magenta = '#CF8EF4'
+cyan    = '#89CCF7'
+white   = '#FFFFFF'
+

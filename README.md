@@ -193,6 +193,9 @@ configuration file.
 | **_tomorrow_night_blue_**<br>[source](https://github.com/ChrisKempson/Tomorrow-Theme)                                                                          | ![tomorrow_night_blue](images/tomorrow_night_blue.png)                     |
 | **_tomorrow_night_bright_**<br>[source](https://github.com/ChrisKempson/Tomorrow-Theme)                                                                        | ![tomorrow_night_bright](images/tomorrow_night_bright.png)                 |
 | **_tomorrow_night_eighties_**<br>[source](https://github.com/ChrisKempson/Tomorrow-Theme)                                                                      | ![tomorrow_night_eighties](images/tomorrow_night_eighties.png)             |
+| **_tr4shy_colors_**<br>[source](https://github.com/tr4shyyy/tr4shy_colors)
+                                             | ![tr4shy_colors](images/tr4shy_colors.png)
+      |
 | **_ubuntu_**<br>[source](https://design.ubuntu.com/brand/colour-palette/)                                                                                      | ![ubuntu](images/ubuntu.png)                                               |
 | **_vesper_**<br>[source](https://github.com/raunofreiberg/vesper)                                                                                              | ![vesper](images/vesper.png)                                               |
 | **_vscode_**<br>[source](https://github.com/microsoft/vscode/blob/main/src/vs/workbench/contrib/terminal/common/terminalColorRegistry.ts)                      | ![vscode](images/vscode.png)                                               |
