@@ -1,31 +1,27 @@
-[colors]
-  [colors.primary]
-  background = "#09111A"
-  foreground = "#D9E6F2"
- 
-  [colors.cursor]
-  cursor = "#D9E6F2"
-  text   = "#09111A"
- 
-  [colors.normal]
-  black   = "#000000"
-  red     = "#AC6D74"
-  green   = "#74AC6D"
-  yellow  = "#ACA46D"
-  blue    = "#6D74AC"
-  magenta = "#A46DAC"
-  cyan    = "#6DACA4"
-  white   = "#E6E6E6"
- 
-  [colors.bright]
-  black   = "#262626"
-  red     = "#D6B8BC"
-  green   = "#BCD6B8"
-  yellow  = "#D6D3B8"
-  blue    = "#B8BCD6"
-  magenta = "#D3B8D6"
-  cyan    = "#B8D6D3"
-  white   = "#FFFFFF"
+[colors.primary]
+background = "#09111A"
+foreground = "#D9E6F2"
 
-  [cursor]
-  style = { shape = "Block", blinking = "On" }
+[colors.cursor]
+cursor = "#D9E6F2"
+text   = "#09111A"
+
+[colors.normal]
+black   = "#000000"
+red     = "#AC6D74"
+green   = "#74AC6D"
+yellow  = "#ACA46D"
+blue    = "#6D74AC"
+magenta = "#A46DAC"
+cyan    = "#6DACA4"
+white   = "#E6E6E6"
+
+[colors.bright]
+black   = "#262626"
+red     = "#D6B8BC"
+green   = "#BCD6B8"
+yellow  = "#D6D3B8"
+blue    = "#B8BCD6"
+magenta = "#D3B8D6"
+cyan    = "#B8D6D3"
+white   = "#FFFFFF"
