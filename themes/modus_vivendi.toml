@@ -1,0 +1,30 @@
+# Colors (modus-vivendi)
+# Soruce https://protesilaos.com/emacs/modus-themes
+
+[colors.primary]
+background = "#000000"
+foreground = "#ffffff"
+
+[colors.cursor]
+cursor = "#ffffff"
+text   = "#000000"
+
+[colors.normal]
+black   = "#000000"
+red     = "#ff5f59"
+green   = "#44bc44"
+yellow  = "#d0bc00"
+blue    = "#2fafff"
+magenta = "#feacd0"
+cyan    = "#00d3d0"
+white   = "#989898"
+
+[colors.bright]
+black   = "#595959"
+red     = "#ff5f5f"
+green   = "#44df44"
+yellow  = "#efef00"
+blue    = "#338fff"
+magenta = "#ff66ff"
+cyan    = "#00eff0"
+white   = "#ffffff"
