@@ -1,0 +1,28 @@
+# Colors (Ganbaru)
+
+# Default colors
+[colors.primary]
+background = '#151b24'
+foreground = '#e1e5eC'
+
+# Normal colors
+[colors.normal]
+black   = '#151b24'
+red     = '#e8608c'
+green   = '#a2d37e'
+yellow  = '#ffb270'
+blue    = '#73b3ff'
+magenta = '#b8abec'
+cyan    = '#60cee0'
+white   = '#a8adb7'
+
+# Bright colors
+[colors.bright]
+black   = '#555555'
+red     = '#ff6d7e'
+green   = '#b1e397'
+yellow  = '#e5de8c'
+blue    = '#a2c8f5'
+magenta = '#ecaee3'
+cyan    = '#a8d9e1'
+white   = '#d1d8e5'
