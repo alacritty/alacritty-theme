@@ -1,0 +1,26 @@
+# Colors (Gruvbox Material Soft Dark)
+# *corresponding to VS Code theme
+
+[colors.primary]
+foreground = "#d4be98"    # colors.terminal.foreground
+background = "#32302f"    # colors.terminal.background
+
+[colors.normal]
+black   = "#3c3836"       # colors.terminal.ansiBlack
+red     = "#ea6962"       # colors.terminal.ansiRed
+green   = "#a9b665"       # colors.terminal.ansiGreen
+yellow  = "#d8a657"       # colors.terminal.ansiYellow
+blue    = "#7daea3"       # colors.terminal.ansiBlue
+magenta = "#d3869b"       # colors.terminal.ansiMagenta
+cyan    = "#89b482"       # colors.terminal.ansiCyan
+white   = "#d4be98"       # colors.terminal.ansiWhite
+
+[colors.bright]
+black   = "#928374"       # colors.terminal.ansiBrightBlack
+red     = "#ea6962"       # colors.terminal.ansiBrightRed
+green   = "#a9b665"       # colors.terminal.ansiBrightGreen
+yellow  = "#d8a657"       # colors.terminal.ansiBrightYellow
+blue    = "#7daea3"       # colors.terminal.ansiBrightBlue
+magenta = "#d3869b"       # colors.terminal.ansiBrightMagenta
+cyan    = "#89b482"       # colors.terminal.ansiBrightCyan
+white   = "#ddc7a1"       # colors.terminal.ansiBrightWhite
