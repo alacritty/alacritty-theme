@@ -1,9 +1,9 @@
 # Colors (Gruvbox Material Soft Dark)
-# *corresponding to VS Code theme of the same name
+# *corresponding to VS Code theme
 
 [colors.primary]
-foreground = "#d4be98"    # colors.editor.foreground
-background = "#32302f"    # colors.editor.background
+foreground = "#d4be98"    # colors.terminal.foreground
+background = "#32302f"    # colors.terminal.background
 
 [colors.normal]
 black   = "#3c3836"       # colors.terminal.ansiBlack
