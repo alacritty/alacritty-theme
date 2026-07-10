@@ -1,0 +1,27 @@
+# source https://github.com/kepano/flexoki/blob/main/alacritty/flexoki-light.toml
+
+[colors.primary]
+background = "#FFFCF0"
+bright_foreground = "#100F0F"
+dim_foreground = "#100F0F"
+foreground = "#100F0F"
+
+[colors.normal]
+black = "#100F0F"
+blue = "#4385BE"
+cyan = "#3AA99F"
+green = "#879A39"
+magenta = "#CE5D97"
+red = "#D14D41"
+white = "#FFFCF0"
+yellow = "#D0A215"
+
+[colors.bright]
+black = "#100F0F"
+blue = "#4385BE"
+cyan = "#3AA99F"
+green = "#879A39"
+magenta = "#CE5D97"
+red = "#D14D41"
+white = "#FFFCF0"
+yellow = "#D0A215"
