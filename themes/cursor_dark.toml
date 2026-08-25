@@ -3,7 +3,45 @@
 # Default colors
 [colors.primary]
 background = '#141414'
-foreground = '#D8DEE9'
+foreground = '#d8dee9'
+dim_foreground = '#505050'
+bright_foreground = '#ffffff'
+
+[colors.cursor]
+text = '#141414'
+cursor = '#ffffff'
+
+[colors.vi_mode_cursor]
+text = '#141414'
+cursor = '#88c0d0'
+
+# Search colors
+[colors.search.matches]
+foreground = '#d8dee9'
+background = '#38474c'
+
+[colors.search.focused_match]
+foreground = '#141414'
+background = '#ebcb8b'
+
+# Footer bar
+[colors.footer_bar]
+foreground = '#cccccc'
+background = '#141414'
+
+# Hints
+[colors.hints.start]
+foreground = '#141414'
+background = '#88c0d0'
+
+[colors.hints.end]
+foreground = '#141414'
+background = '#bf616a'
+
+# Selection colors
+[colors.selection]
+text = '#d8dee9'
+background = '#303030'
 
 # Normal colors
 [colors.normal]
@@ -26,3 +64,14 @@ blue    = '#81a1c1'
 magenta = '#b48ead'
 cyan    = '#88c0d0'
 white   = '#ffffff'
+
+# Dim colors
+[colors.dim]
+black   = '#2a2a2a'
+red     = '#bf616a'
+green   = '#a3be8c'
+yellow  = '#ebcb8b'
+blue    = '#81a1c1'
+magenta = '#b48ead'
+cyan    = '#88c0d0'
+white   = '#d8dee9'
