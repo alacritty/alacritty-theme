@@ -1,28 +1,28 @@
-# Colors (Cursor)
+# Colors (Cursor Dark)
 
 # Default colors
 [colors.primary]
-background = '#181818'
-foreground = '#e4e4e4'
+background = '#141414'
+foreground = '#D8DEE9'
 
 # Normal colors
 [colors.normal]
-black   = '#141414'
-red     = '#e34671'
-green   = '#3fa266'
-yellow  = '#f1b467'
+black   = '#2a2a2a'
+red     = '#bf616a'
+green   = '#a3be8c'
+yellow  = '#ebcb8b'
 blue    = '#81a1c1'
-magenta = '#E394DC'
+magenta = '#b48ead'
 cyan    = '#88c0d0'
-white   = '#e4e4e4'
+white   = '#d8dee9'
 
 # Bright colors
 [colors.bright]
-black   = '#262626'
-red     = '#fc6b83'
-green   = '#70b489'
-yellow  = '#F8C762'
-blue    = '#87C3FF'
-magenta = '#AAA0FA'
-cyan    = '#82D2CE'
-white   = '#fcfcfc'
+black   = '#505050'
+red     = '#bf616a'
+green   = '#a3be8c'
+yellow  = '#ebcb8b'
+blue    = '#81a1c1'
+magenta = '#b48ead'
+cyan    = '#88c0d0'
+white   = '#ffffff'
