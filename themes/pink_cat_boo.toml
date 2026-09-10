@@ -4,16 +4,7 @@
 [colors.primary]
 background = "#202330"
 foreground = "#FFF0F5"
-dim_foreground = "#9498a1"
 bright_foreground = "#FFFFFF"
-
-[colors.cursor]
-text = "#202330"
-cursor = "#FFEDF0"
-
-[colors.selection]
-text = "#FFF0F5"
-background = "#472541"
 
 [colors.normal]
 black   = "#202330"
@@ -34,14 +25,4 @@ blue    = "#A2C2EB"
 magenta = "#E6A1FF"
 cyan    = "#75E0D6"
 white   = "#FFFFFF"
-
-[colors.dim]
-black   = "#15171F"
-red     = "#8A2B48"
-green   = "#296B50"
-yellow  = "#7A5A22"
-blue    = "#3D3D82"
-magenta = "#7A4D99"
-cyan    = "#2E7A73"
-white   = "#8E8E8E"
 
