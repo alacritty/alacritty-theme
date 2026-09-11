@@ -4,7 +4,6 @@
 [colors.primary]
 background = "#202330"
 foreground = "#FFF0F5"
-bright_foreground = "#FFFFFF"
 
 [colors.normal]
 black   = "#202330"
