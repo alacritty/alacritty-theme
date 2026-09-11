@@ -1,0 +1,27 @@
+# Pink Cat Boo Theme 
+# Source: https://github.com/ftsamoyed/PinkCatBoo
+
+[colors.primary]
+background = "#202330"
+foreground = "#FFF0F5"
+
+[colors.normal]
+black   = "#202330"
+red     = "#FF4C7A"
+green   = "#3BC089"
+yellow  = "#D0963A"
+blue    = "#6767CE"
+magenta = "#C77DFF"
+cyan    = "#4CC9C0"
+white   = "#FFF0F5"
+
+[colors.bright]
+black   = "#565970"
+red     = "#FF7F9D"
+green   = "#9CD162"
+yellow  = "#FEC831"
+blue    = "#A2C2EB"
+magenta = "#E6A1FF"
+cyan    = "#75E0D6"
+white   = "#FFFFFF"
+
