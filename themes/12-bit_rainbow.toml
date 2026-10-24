@@ -1,0 +1,27 @@
+# Colors (12-bit_rainbow)
+# Source: https://iamkate.com/data/12-bit-rainbow/
+
+[colors.primary]
+background = "#111111"
+foreground = "#dddddd"
+bright_foreground = "#eeeeee"
+
+[colors.normal]
+black   = "#333333"
+red     = "#aa3355"
+green   = "#44dd88"
+yellow  = "#ee9944"
+blue    = "#3366bb"
+magenta = "#663399"
+cyan    = "#00bbcc"
+white   = "#bbbbbb"
+
+[colors.bright]
+black   = "#555555"
+red     = "#cc6666"
+green   = "#99dd55"
+yellow  = "#eedd00"
+blue    = "#0099cc"
+magenta = "#881177"
+cyan    = "#22ccbb"
+white   = "#cccccc"
