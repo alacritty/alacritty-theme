@@ -37,6 +37,7 @@ configuration file.
 
 |                                                                              NAME                                                                              |                                   COLORS                                   |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: |
+| **_12-bit_rainbow_**<br>[source](https://iamkate.com/data/12-bit-rainbow/)                                                                                     | ![12-bit_rainbow](images/12-bit_rainbow.png)                               |
 | **_acme_**<br>[source](https://github.com/plan9-for-vimspace/acme-colors)                                                                                      | ![acme](images/acme.png)                                                   |
 | **_afterglow_**<br>[source](https://github.com/YabataDesign/afterglow-theme)                                                                                   | ![base16_default_dark](images/afterglow.png)                               |
 | **_alabaster_**<br>[source](https://github.com/tonsky/vscode-theme-alabaster)                                                                                  | ![alabaster](images/alabaster.png)                                         |
