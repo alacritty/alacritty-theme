@@ -1,0 +1,25 @@
+# Andromeda
+
+[colors.primary]
+background = "#23262E"
+foreground = "#D5CED9"
+
+[colors.normal]
+black   = "#000000"
+red     = "#ee5d43"
+green   = "#96E072"
+yellow  = "#FFE66D"
+blue    = "#7cb7ff"
+magenta = "#ff00aa"
+cyan    = "#00e8c6"
+white   = "#e5e5e5"
+
+[colors.bright]
+black   = "#666666"
+red     = "#ee5d43"
+green   = "#96E072"
+yellow  = "#FFE66D"
+blue    = "#7cb7ff"
+magenta = "#ff00aa"
+cyan    = "#00e8c6"
+white   = "#e5e5e5"
