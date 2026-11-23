@@ -1,0 +1,34 @@
+# Gotham Noir - Batcomputer
+# https://github.com/thezaynahmed/gotham-noir
+
+[colors.primary]
+background = "#101215"
+foreground = "#dce0e5"
+
+[colors.cursor]
+text = "#0e1013"
+cursor = "#f5d042"
+
+[colors.selection]
+text = "#eff2f6"
+background = "#2b3440"
+
+[colors.normal]
+black   = "#101215"
+red     = "#ee6b78"
+green   = "#56cca0"
+yellow  = "#f5d042"
+blue    = "#72b4f5"
+magenta = "#bc9bf0"
+cyan    = "#5ecad6"
+white   = "#dce0e5"
+
+[colors.bright]
+black   = "#828a96"
+red     = "#f68e99"
+green   = "#73dcb5"
+yellow  = "#fae06c"
+blue    = "#94c8fa"
+magenta = "#ceb4f5"
+cyan    = "#7fdae3"
+white   = "#eff2f6"

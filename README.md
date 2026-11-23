@@ -105,6 +105,10 @@ configuration file.
 | **_google_**                                                                                                                                                   | ![falcon](images/google.png)                                               |
 | **_gotham_**                                                                                                                                                   | ![gotham](images/gotham.png)                                               |
 | **_gnome_terminal_**<br>[source](https://gitlab.gnome.org/GNOME/gnome-terminal)                                                                                | ![gnome_terminal](images/gnome_terminal.png)                               |
+| **_gotham_noir_arkham_slate_**<br>[source](https://github.com/thezaynahmed/gotham-noir) | ![gotham_noir_arkham_slate](images/gotham_noir_arkham_slate.png) |
+| **_gotham_noir_batcomputer_**<br>[source](https://github.com/thezaynahmed/gotham-noir) | ![gotham_noir_batcomputer](images/gotham_noir_batcomputer.png) |
+| **_gotham_noir_vengeance_**<br>[source](https://github.com/thezaynahmed/gotham-noir) | ![gotham_noir_vengeance](images/gotham_noir_vengeance.png) |
+| **_gotham_noir_year_one_**<br>[source](https://github.com/thezaynahmed/gotham-noir) | ![gotham_noir_year_one](images/gotham_noir_year_one.png) |
 | **_gruber_darker_**<br>[source](https://github.com/rexim/gruber-darker-theme)                                                                                  | ![gruber_darker](images/gruber_darker.png)                                 |
 | **_gruvbox_dark_**<br>[source](https://github.com/morhetz/gruvbox)                                                                                             | ![gruvbox_dark](images/gruvbox_dark.png)                                   |
 | **_gruvbox_light_**<br>[source](https://github.com/morhetz/gruvbox)                                                                                            | ![gruvbox_light](images/gruvbox_light.png)                                 |

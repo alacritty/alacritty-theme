@@ -1,0 +1,34 @@
+# Gotham Noir - Year One
+# https://github.com/thezaynahmed/gotham-noir
+
+[colors.primary]
+background = "#15171a"
+foreground = "#d8d6cf"
+
+[colors.cursor]
+text = "#111316"
+cursor = "#f0c946"
+
+[colors.selection]
+text = "#eceae4"
+background = "#323a46"
+
+[colors.normal]
+black   = "#15171a"
+red     = "#e86a74"
+green   = "#63c794"
+yellow  = "#f0c946"
+blue    = "#74aeeb"
+magenta = "#b695e8"
+cyan    = "#68c5ce"
+white   = "#d8d6cf"
+
+[colors.bright]
+black   = "#878d96"
+red     = "#f28b94"
+green   = "#7ed8a9"
+yellow  = "#f7d96d"
+blue    = "#93c2f2"
+magenta = "#c8aef0"
+cyan    = "#84d6de"
+white   = "#eceae4"

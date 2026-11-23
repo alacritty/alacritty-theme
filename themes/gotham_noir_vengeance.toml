@@ -1,0 +1,34 @@
+# Gotham Noir - Vengeance
+# https://github.com/thezaynahmed/gotham-noir
+
+[colors.primary]
+background = "#151417"
+foreground = "#ddd8d5"
+
+[colors.cursor]
+text = "#f8f4f5"
+cursor = "#e5535c"
+
+[colors.selection]
+text = "#f0ecea"
+background = "#3a2c33"
+
+[colors.normal]
+black   = "#151417"
+red     = "#ef6c74"
+green   = "#6ec798"
+yellow  = "#e8be54"
+blue    = "#7baee6"
+magenta = "#be9ae6"
+cyan    = "#6fc2ca"
+white   = "#ddd8d5"
+
+[colors.bright]
+black   = "#918994"
+red     = "#f68e94"
+green   = "#87d7ad"
+yellow  = "#f2ce74"
+blue    = "#9ac2ee"
+magenta = "#cfb2ee"
+cyan    = "#8ad2d9"
+white   = "#f0ecea"
