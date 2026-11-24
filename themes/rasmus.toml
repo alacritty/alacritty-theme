@@ -6,14 +6,6 @@
 background = '#1a1a19'
 foreground = '#d1d1d1'
 
-# [colors.cursor]
-# text = '#1a1a19'
-# cursor = '#d1d1d1'
-#
-# [colors.selection]
-# text = '#d1d1d1'
-# background = '#3a3a39'
-
 [colors.normal]
 black   = '#333332'
 red     = '#ff968c'
